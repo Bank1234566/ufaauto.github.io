@@ -50,7 +50,7 @@
         "action": {
           "type": "uri",
           "label": "ใช้โค๊ดเลย",
-          "uri": "http://linecorp.com/"
+          "uri": "https://lin.ee/cKcdzIw"
         },
         "style": "primary",
         "color": "#FF0000"
