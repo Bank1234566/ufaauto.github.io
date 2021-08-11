@@ -1,0 +1,52 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/bc9e66a4e4fbce92251d52289b220a54.jpg",
+    "align": "center",
+    "aspectMode": "fit",
+    "margin": "md",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สล็อตออนไลน์ ที่ 1 ในประเทศไทย",
+        "margin": "md",
+        "size": "md",
+        "weight": "bold",
+        "style": "normal",
+        "align": "center"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/LjFcFdm"
+        },
+        "style": "primary",
+        "margin": "xl"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "https://liff.line.me/1656308389-kBjm33zd"
+        },
+        "style": "primary",
+        "gravity": "bottom",
+        "margin": "sm",
+        "color": "#FF1313FF"
+      }
+    ]
+  }
+}
+}]
