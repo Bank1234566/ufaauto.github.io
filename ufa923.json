@@ -1,0 +1,58 @@
+[{
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/837f61c8455e1ae613dba11c752018ab.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "fit"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "UFA 923 ฝาก-ถอนระบบอัตโนมัติ 24 ชั่วโมง สมัครสมาชิกใหม่รับเครดิตฟรี 99 เครดิต",
+        "weight": "bold",
+        "size": "xs",
+        "color": "#000000CE",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/LjFcFdm"
+        },
+        "margin": "none",
+        "height": "md",
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์รับเครดิต",
+          "uri": "https://liff.line.me/1656241953-JXyLjYgV"
+        },
+        "color": "#FF1313FF",
+        "margin": "xs",
+        "height": "md",
+        "style": "primary",
+        "gravity": "center"
+      }
+    ]
+  }
+}]
