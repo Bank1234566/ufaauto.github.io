@@ -1,0 +1,90 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/4ce2d4655d8e899cef4d1aa73dd1630c.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "✅โค๊ดเครดิตฟรี : 7f8f5d366c ",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "🔥เพียงนำโค๊ดใส่รับได้ทันที !!🔥",
+        "align": "center",
+        "weight": "bold",
+        "size": "md"
+      }
+    ],
+    "backgroundColor": "#FFFFFF"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ใส่โค๊ดเครดิตฟรี",
+          "uri": "https://lin.ee/LjFcFdm"
+        },
+        "style": "primary",
+        "color": "#FF0033",
+        "margin": "none"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary",
+        "color": "#6600FF"
+      }
+    ],
+    "flex": 0,
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "endColor": "#FFFFFF",
+      "startColor": "#FFFFFF",
+      "centerColor": "#FFFFFF"
+    },
+    "paddingAll": "none",
+    "paddingTop": "none",
+    "paddingEnd": "none",
+    "paddingStart": "none",
+    "paddingBottom": "none",
+    "cornerRadius": "none",
+    "borderWidth": "bold",
+    "margin": "none"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#CC0033"
+    },
+    "footer": {
+      "backgroundColor": "#0033FF"
+    }
+  }
+}
+}]
