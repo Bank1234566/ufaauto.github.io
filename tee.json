@@ -1,4 +1,4 @@
-{
+[{
   "type": "bubble",
   "hero": {
     "type": "image",
@@ -116,4 +116,4 @@
     ],
     "flex": 0
   }
-}
+}]
