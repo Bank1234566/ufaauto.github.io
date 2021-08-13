@@ -12,7 +12,8 @@
     "action": {
       "type": "uri",
       "uri": "http://ufa-bet191.com/"
-    }
+    },
+    "animated": true
   },
   "body": {
     "type": "box",
@@ -60,7 +61,7 @@
         "action": {
           "type": "uri",
           "label": "เเชร์เลย",
-          "uri": "https://linecorp.com"
+          "uri": "https://boss12123.github.io/?liffId=1656317102-Ze2nDd8r&content=https://boss12123.github.io/jk898.json"
         },
         "color": "#CC99FF"
       },
