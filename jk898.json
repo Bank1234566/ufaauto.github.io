@@ -1,71 +1,75 @@
 [{
- "type": "bubble",
- "hero": {
-   "type": "image",
-   "url": "https://sv1.picz.in.th/images/2021/08/13/2uB4Iq.gif",
-   "size": "full",
-   "aspectRatio": "1:1",
-   "aspectMode": "fit",
-   "action": {
-     "type": "uri",
-     "uri": "http://ufa-bet191.com/member/home"
-   }
- },
- "body": {
-   "type": "box",
-   "layout": "vertical",
-   "contents": [
-     {
-       "type": "text",
-       "text": "AUTOBET",
-       "align": "center",
-       "weight": "bold",
-       "color": "#FF00CC"
-     },
-     {
-       "type": "text",
-       "text": "ระบบฝากถอนอัตโนมัติ รวดเร็วภายใน 3 วิ สมัครสมาชิกใหม่ รับโบนัส 100%",
-       "weight": "bold",
-       "wrap": true,
-       "align": "center",
-       "size": "sm",
-       "color": "#A020F0"
-     }
-   ],
-   "margin": "none"
- },
- "footer": {
-   "type": "box",
-   "layout": "horizontal",
-   "spacing": "sm",
-   "contents": [
-     {
-       "type": "button",
-       "style": "primary",
-       "height": "sm",
-       "action": {
-         "type": "uri",
-         "label": "สมัครรับโบนัส",
-         "uri": "https://linecorp.com"
-       },
-       "color": "#FF66FF"
-     },
-     {
-       "type": "button",
-       "style": "primary",
-       "height": "sm",
-       "action": {
-         "type": "uri",
-         "label": "เเชร์เลย",
-         "uri": "https://lin.ee/aIEFu32"
-       },
-       "color": "#CC99FF"
-     },
-     {
-       "type": "spacer",
-       "size": "sm"
-     }
-   ],
-   "flex": 0
- }
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2021/08/13/2uB4Iq.gif",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://ufa-bet191.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "AUTOBET",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FF00CC"
+      },
+      {
+        "type": "text",
+        "text": "ระบบฝากถอนอัตโนมัติ รวดเร็วภายใน 3 วิ สมัครสมาชิกใหม่ รับโบนัส 100%",
+        "weight": "bold",
+        "wrap": true,
+        "align": "center",
+        "margin": "none",
+        "size": "sm",
+        "color": "#A020F0"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับโบนัส",
+          "uri": "http://ufa-bet191.com/"
+        },
+        "color": "#FF66FF"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "https://linecorp.com"
+        },
+        "color": "#CC99FF"
+      },
+      {
+        "type": "spacer",
+        "size": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
 }]
