@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "ลุงตู่ไม่เเจกเเต่เราเเจกให้ฟรี 89 บาท!!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -76,7 +76,7 @@
             "action": {
               "type": "uri",
               "label": "เเชร์เลย",
-              "uri": "http://linecorp.com/"
+              "uri": "https://liff.line.me/1656289600-AYodGjkE/?content=https://boss12123.github.io/lt168.json"
             },
             "style": "primary",
             "height": "sm",
