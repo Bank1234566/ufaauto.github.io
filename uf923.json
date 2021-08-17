@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "🔥โชคครั้งใหญ่มาหาท่านเเล้ว เเจกเครดิตฟรี 89 เครดิต !!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -76,7 +76,7 @@
             "action": {
               "type": "uri",
               "label": "เเชร์เลย",
-              "uri": "http://linecorp.com/"
+              "uri": "https://liff.line.me/1656289600-AYodGjkE/?content=https://boss12123.github.io/uf923.json "
             },
             "style": "primary",
             "height": "sm",
