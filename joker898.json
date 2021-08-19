@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "✨มหาโชคครั้งใหญ่มาถึงเเล้ว เเจกเครดิตฟรีให้ทุกคนไม่มีอั้น",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -92,7 +92,8 @@
           "type": "linearGradient",
           "angle": "0deg",
           "startColor": "#330033",
-          "endColor": "#330033"
+          "endColor": "#330033",
+          "centerColor": "#330033"
         }
       }
     },
@@ -182,7 +183,8 @@
           "type": "linearGradient",
           "angle": "0deg",
           "startColor": "#330033",
-          "endColor": "#330033"
+          "endColor": "#330033",
+          "centerColor": "#330033"
         }
       }
     }
