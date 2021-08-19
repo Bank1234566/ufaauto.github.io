@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "✨มหาโชคครั้งใหญ่มาถึงเเล้ว เเจกเครดิตฟรีให้ทุกคนไม่มีอั้น",
+  "altText": "You received a message",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -80,7 +80,7 @@
             "action": {
               "type": "uri",
               "label": "เเชร์เลย",
-              "uri": "https://liff.line.me/1656317102-Ze2nDd8r/?content=https://boss12123.github.io/joker898.json"
+              "uri": "http://linecorp.com/"
             },
             "style": "primary",
             "color": "#8470FF"
@@ -94,6 +94,11 @@
           "startColor": "#330033",
           "endColor": "#330033",
           "centerColor": "#330033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
         }
       }
     },
@@ -185,6 +190,11 @@
           "startColor": "#330033",
           "endColor": "#330033",
           "centerColor": "#330033"
+        }
+      },
+      "styles": {
+        "footer": {
+          "backgroundColor": "#330033"
         }
       }
     }
