@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "เเจกโต๊ดเครดิตฟรีจำนวนจำกัด",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -81,7 +81,7 @@
             "action": {
               "type": "uri",
               "label": "🎁แชร์เลย🎁",
-              "uri": "http://linecorp.com/"
+              "uri": "https://liff.line.me/1656340671-8nPpNoRM/?content=https://boss12123.github.io/casiokriss.json"
             },
             "style": "primary",
             "color": "#FF0000"
