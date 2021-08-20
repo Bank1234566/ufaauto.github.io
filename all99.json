@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "มังกรเเจกโชค ให้เครดิตไปเลนกันฟรีๆ 159 !!",
+  "altText": "🐉มังกรเเจกโชค รับเครดิตฟรีได้ทันที 159 เครดิต!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -70,7 +70,7 @@
             "action": {
               "type": "uri",
               "label": "✨เเชร์ให้เลย✨",
-              "uri": "http://linecorp.com/"
+              "uri": "https://liff.line.me/1656340443-Xz8Eqvom/?content=https://boss12123.github.io/all99.json"
             },
             "style": "secondary",
             "color": "#FFCC33"
@@ -122,13 +122,18 @@
             "text": "ฝาก 200 รับ 400  🐱‍🐉ฝาก 300 รับ 600 ",
             "color": "#00FA9A",
             "weight": "bold",
-            "align": "center"
+            "align": "start",
+            "margin": "none",
+            "size": "sm"
           },
           {
             "type": "text",
             "text": "ฝาก 400 รับ 800  🐱‍🐉ฝาก 500 รับ 1000 ",
             "weight": "bold",
-            "color": "#00FA9A"
+            "color": "#00FA9A",
+            "size": "sm",
+            "wrap": true,
+            "align": "start"
           },
           {
             "type": "text",
