@@ -1,0 +1,190 @@
+[{
+  "type": "flex",
+  "altText": "CASINO KRISS เเจกเครดิตฟรี!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/71918469e3382d34730ccff91b410bad.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/XP3Ed23"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "CASINO KISS",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แจกฟรี 100 บาทรวมทุกเกมส์สล๊อตออนไลน์",
+                "size": "sm",
+                "align": "center",
+                "margin": "none",
+                "color": "#FFFFFF"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกมส์ครบจบในเว็บเดี่ยว",
+            "size": "sm",
+            "align": "center",
+            "color": "#FFFFFF"
+          }
+        ],
+        "backgroundColor": "#FF3333"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "🧧สมัครสมาชิก🧧",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🎁แชร์เลย🎁",
+              "uri": "https://linecorp.com"
+            },
+            "style": "secondary"
+          }
+        ],
+        "backgroundColor": "#FF3333"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2Gui6y.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่ฟังทางนี้",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFFFF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "อย่ารอช้า โปรโมชั่นจำจนวนจำกัด",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบอัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temporarily out of stock",
+            "wrap": true,
+            "size": "xxs",
+            "margin": "md",
+            "color": "#ff5551",
+            "flex": 0
+          }
+        ],
+        "backgroundColor": "#FF3333"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "secondary",
+            "action": {
+              "type": "uri",
+              "label": "🔞สมัครสมาชิกเลย🔞",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            }
+          }
+        ],
+        "backgroundColor": "#FF3333"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 1,
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "See more",
+              "uri": "https://linecorp.com"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+}]
