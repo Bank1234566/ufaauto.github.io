@@ -25,12 +25,12 @@
         "contents": [
           {
             "type": "text",
-            "text": "CASINO KISS",
             "wrap": true,
             "weight": "bold",
             "size": "xl",
             "align": "center",
-            "color": "#FFFFFF"
+            "color": "#FFFFFF",
+            "text": "CASINO KISS"
           },
           {
             "type": "box",
@@ -38,20 +38,26 @@
             "contents": [
               {
                 "type": "text",
-                "text": "แจกฟรี 100 บาทรวมทุกเกมส์สล๊อตออนไลน์",
                 "size": "sm",
                 "align": "center",
                 "margin": "none",
-                "color": "#FFFFFF"
+                "color": "#FFFFFF",
+                "text": "แจกฟรี 100 บาทรวมทุกเกมส์สล๊อตออนไลน์"
               }
             ]
           },
           {
             "type": "text",
             "text": "เล่นได้ทุกค่ายเกมส์ครบจบในเว็บเดี่ยว",
-            "size": "sm",
+            "size": "md",
             "align": "center",
             "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "รับง่ายไม่ต้องฝากก่อน",
+            "color": "#FFFFFF",
+            "align": "center"
           }
         ],
         "backgroundColor": "#FF3333"
@@ -66,8 +72,8 @@
             "style": "primary",
             "action": {
               "type": "uri",
-              "label": "🧧สมัครสมาชิก🧧",
-              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+              "label": "🧧รับเครดิตฟรี🧧",
+              "uri": "https://lin.ee/XP3Ed23"
             }
           },
           {
@@ -75,9 +81,10 @@
             "action": {
               "type": "uri",
               "label": "🎁แชร์เลย🎁",
-              "uri": "https://linecorp.com"
+              "uri": "http://linecorp.com/"
             },
-            "style": "secondary"
+            "style": "primary",
+            "color": "#FF0000"
           }
         ],
         "backgroundColor": "#FF3333"
@@ -108,7 +115,7 @@
             "wrap": true,
             "weight": "bold",
             "size": "xl",
-            "color": "#FFFFFF",
+            "color": "#FFFF00",
             "align": "center"
           },
           {
@@ -124,7 +131,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ระบบอัตโนมัติ รวดเร็วทันใจ",
+                "text": "ระบบ ฝาก-ถอน อัตโนมัติ รวดเร็วทันใจ",
                 "wrap": true,
                 "weight": "bold",
                 "size": "sm",
@@ -133,15 +140,6 @@
                 "color": "#FFFFFF"
               }
             ]
-          },
-          {
-            "type": "text",
-            "text": "Temporarily out of stock",
-            "wrap": true,
-            "size": "xxs",
-            "margin": "md",
-            "color": "#ff5551",
-            "flex": 0
           }
         ],
         "backgroundColor": "#FF3333"
@@ -153,21 +151,26 @@
         "contents": [
           {
             "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🧧รับเครดิตฟรี🧧",
+              "uri": "https://lin.ee/XP3Ed23"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
             "flex": 2,
-            "style": "secondary",
+            "style": "primary",
             "action": {
               "type": "uri",
               "label": "🔞สมัครสมาชิกเลย🔞",
-              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
-            }
+              "uri": "https://www.ufaauto523.com/"
+            },
+            "color": "#FF0000"
           }
         ],
         "backgroundColor": "#FF3333"
-      }
-    }
-            }
-          }
-        ]
       }
     }
   ]
