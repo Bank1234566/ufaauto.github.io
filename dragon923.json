@@ -1,6 +1,6 @@
-{
+[{
   "type": "flex",
-  "altText": "🐲มังกรทองเเจกทรัพย์ มาเเล้ว!!",
+  "altText": "🐲มังกรทองเเจกโชค มาถึงเเล้ว!!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -130,7 +130,7 @@
               "uri": "https://lin.ee/LjFcFdm"
             },
             "color": "#FF0000",
-            "style": "secondary"
+            "style": "primary"
           }
         ],
         "spacing": "sm",
@@ -193,7 +193,7 @@
               "uri": "https://lin.ee/LjFcFdm"
             },
             "color": "#FF0000",
-            "style": "secondary"
+            "style": "primary"
           }
         ],
         "spacing": "sm",
@@ -202,4 +202,4 @@
     }
   ]
 }
-}
+}]
