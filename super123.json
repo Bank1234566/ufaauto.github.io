@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "มารับทรัพย์กันเเจกเครดิตฟรี 100!!",
+  "altText": "เเจกเครดิตฟรี 100 เเจกให้ไม่อั้น",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -199,7 +199,9 @@
           "angle": "0deg",
           "startColor": "#ffffff",
           "endColor": "#ffffff"
-        }
+        },
+        "spacing": "sm",
+        "margin": "none"
       }
     }
   ]
