@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "โชคหล่นทับคุณเเล้ว !!",
+  "altText": "มารับทรัพย์กันเเจกเครดิตฟรี 100!!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -180,8 +180,8 @@
               "label": "สมัครรับโบนัส",
               "uri": "http://ufa-bet191.com/"
             },
-            "style": "primary",
-            "color": "#0000FF"
+            "color": "#0000FF",
+            "style": "primary"
           },
           {
             "type": "button",
