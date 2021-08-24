@@ -193,6 +193,7 @@
               "label": "สมัครรับโบนัส"
             },
             "style": "primary"
+            "color": "#00FA9A"
           },
           {
             "type": "button",
@@ -202,6 +203,7 @@
               "uri": "https://lin.ee/ks2fja5"
             },
             "style": "primary"
+            "color": "#FF0033"
           }
         ],
         "spacing": "xs",
