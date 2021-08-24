@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกโค๊ดเครดิตฟรี 300 ยูซเซอร์ ใส่โค๊ดรับเลย !!",
+  "altText": "เเจกโค๊ดเครดิตฟรี 300 ยูซเซอร์ จำนวนจำกัด!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -192,7 +192,7 @@
               "uri": "https://lin.ee/ks2fja5",
               "label": "สมัครรับโบนัส"
             },
-            "style": "primary"
+            "style": "primary",
             "color": "#00FA9A"
           },
           {
@@ -202,7 +202,7 @@
               "label": "รับเครดิตฟรี",
               "uri": "https://lin.ee/ks2fja5"
             },
-            "style": "primary"
+            "style": "primary",
             "color": "#FF0033"
           }
         ],
