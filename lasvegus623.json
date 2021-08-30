@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "มหาเฮงรับทรัพย์ เเจกเครดิตฟรี 199 เครดิต!!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -162,7 +162,8 @@
               "label": "สมัครสมาชิก",
               "uri": "https://lin.ee/rfETLNm"
             },
-            "color": "#00FF7F"
+            "color": "#00FF7F",
+            "style": "primary"
           },
           {
             "type": "button",
@@ -171,7 +172,8 @@
               "label": "รับเครดิตฟรี ",
               "uri": "https://lin.ee/rfETLNm"
             },
-            "color": "#f96c6c"
+            "color": "#f96c6c",
+            "style": "primary"
           }
         ],
         "spacing": "sm"
