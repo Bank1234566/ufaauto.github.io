@@ -140,7 +140,8 @@
               "type": "uri",
               "label": "สมัครรับโบนัส",
               "uri": "https://funhang2.wixsite.com/my-site-1"
-            }
+            },
+            "style": "primary"
           },
           {
             "type": "button",
@@ -148,9 +149,12 @@
               "type": "uri",
               "label": "รับเครดิตฟรี",
               "uri": "https://lin.ee/cHl6niV"
-            }
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
           }
-        ]
+        ],
+        "spacing": "sm"
       }
     }
   ]
