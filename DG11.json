@@ -1,0 +1,154 @@
+[{
+  "type": "flex",
+  "altText": "รับทรูวอเลทฟรี 50 บาทไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/3939a6c16335059c4733666a74b81f50.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/kkis2w8"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": " DREAMGAME11",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 บาท",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "เอาไป ทดลองเล่นก่อนได้เลยไม่ต้องฝากเงิน",
+            "size": "xs",
+            "weight": "bold"
+          }
+        ],
+        "backgroundColor": "#FDF5E6"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "🎁ติดต่อขอรับ🎁",
+              "uri": "https://lin.ee/kkis2w8"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📣บอกต่อเพื่อน📣",
+              "uri": "https://liff.line.me/1656419310-Dp9OM76Q/?content=https://boss12123.github.io/DG11.json"
+            },
+            "style": "primary"
+          }
+        ],
+        "backgroundColor": "#FDF5E6"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "3:4",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/3e9826187e997d65781a2cdfd7229027.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "คาสิโนออนไลน์ชั้นนำ",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "อันดับ 1 ที่นี่ที่เดี่ยว",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "มั่นคง ปลอดภัย",
+            "size": "sm",
+            "margin": "md",
+            "flex": 0,
+            "align": "center",
+            "weight": "bold"
+          }
+        ],
+        "backgroundColor": "#FDF5E6"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "👉สมัครมาชิก👈",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/register"
+            }
+          }
+        ],
+        "backgroundColor": "#FDF5E6"
+      }
+    }
+  ]
+}
+}]
