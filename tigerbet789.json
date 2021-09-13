@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "🐅พี่เสือกให้โชค 135 เครดิตตอนนี้!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/6742acb9024c9ee93081337af7fb5736.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เพียงแจ้งโค้ดกับแอดมินเพื่อรับเครดิตฟรี",
+            "wrap": true,
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้เฉพาะ คาสิโน และ สล็อต",
+            "size": "sm",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "  "
+          },
+          {
+            "type": "text",
+            "text": "โค้ดเครดิตฟรี : TIGERFREE135L7T",
+            "color": "#FF0000",
+            "margin": "none",
+            "weight": "bold"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "แจ้งโค้ดเครดิตฟรี",
+              "uri": "https://lin.ee/mSAH9pi"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แบ่งบัน",
+              "uri": "https://liff.line.me/1656419782-J32e76Np/?content=https://boss12123.github.io/tigerbet789.json"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://www.img.in.th/images/3466ae31ca9cfaa24dba5338d7941550.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่รับโบนัสได้ไม่อั้น",
+            "wrap": true,
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": []
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกอย่าง คาสิโน บอล หวย สล็อต"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก - ถอน ระบบ อัตโนมัติ"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "primary",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://ufa523.automebet.com/ufa523/ufabet/register"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโค้ดเครดิตฟรี",
+              "uri": "https://lin.ee/mSAH9pi"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  ]
+}
+}]
