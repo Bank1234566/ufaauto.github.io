@@ -41,7 +41,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/jX41vEX"
+              "uri": "https://lin.ee/a6lEnnZ"
             },
             "style": "primary",
             "color": "#FF0000"
@@ -107,7 +107,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/jX41vEX"
+              "uri": "https://lin.ee/a6lEnnZ"
             },
             "style": "secondary",
             "color": "#00FF7F"
@@ -161,12 +161,13 @@
             "action": {
               "type": "uri",
               "label": "สมัครสมาชิก",
-              "uri": "https://lin.ee/a6lEnnZ"
+              "uri": "https://lin.ee/gOxs5Op"
             },
             "style": "secondary",
             "color": "#00FF7F"
           }
-        ]
+        ],
+        "spacing": "sm"
       }
     }
   ]
