@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🐅พี่เสือกให้โชค 135 เครดิตตอนนี้!!",
+  "altText": "🐅พี่เสือให้โชค 135 เครดิตตอนนี้",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -9,9 +9,8 @@
       "hero": {
         "type": "image",
         "size": "full",
-        "aspectRatio": "2:2",
         "aspectMode": "cover",
-        "url": "https://www.img.in.th/images/6742acb9024c9ee93081337af7fb5736.jpg",
+        "url": "https://www.img.in.th/images/da66534019ac775585c60f4697387c75.jpg",
         "action": {
           "type": "uri",
           "label": "action",
@@ -25,34 +24,65 @@
         "contents": [
           {
             "type": "text",
-            "text": "เพียงแจ้งโค้ดกับแอดมินเพื่อรับเครดิตฟรี",
+            "text": "โค้ดเครดิตฟรี : TIGEREE123L7T",
             "wrap": true,
             "weight": "bold",
-            "size": "sm"
+            "size": "md",
+            "color": "#FF0000"
           },
           {
             "type": "box",
             "layout": "baseline",
-            "contents": []
+            "contents": [
+              {
+                "type": "text",
+                "text": "เพียงแจ้งโค้ดกับแอดมินก็รับเครดิตฟรีได้ทันที ",
+                "wrap": true,
+                "weight": "regular",
+                "size": "sm",
+                "margin": "none",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "เล่นได้เฉพาะ คาสิโน และ สล็อต",
-            "size": "sm",
-            "weight": "bold"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เล่นได้เฉพาะ คาสิโน สล็อต ยิงปลา",
+                "margin": "none",
+                "size": "sm",
+                "weight": "regular",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "  "
-          },
-          {
-            "type": "text",
-            "text": "โค้ดเครดิตฟรี : TIGERFREE135L7T",
-            "color": "#FF0000",
-            "margin": "none",
-            "weight": "bold"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ทำยอด 1,350 ถอนได้เลย 350.-",
+                "margin": "none",
+                "size": "sm",
+                "weight": "regular",
+                "style": "normal",
+                "color": "#FFFF99"
+              }
+            ]
           }
-        ]
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FDF5E6"
+        }
       },
       "footer": {
         "type": "box",
@@ -61,23 +91,37 @@
         "contents": [
           {
             "type": "button",
-            "style": "primary",
+            "style": "secondary",
             "action": {
-              "type": "uri",
+              "type": "postback",
               "label": "แจ้งโค้ดเครดิตฟรี",
-              "uri": "https://lin.ee/mSAH9pi"
-            }
+              "data": "https://lin.ee/mSAH9pi"
+            },
+            "margin": "sm",
+            "height": "sm",
+            "color": "#FF0000"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "แบ่งบัน",
-              "uri": "https://liff.line.me/1656419782-J32e76Np/?content=https://boss12123.github.io/tigerbet789.json"
+              "label": "บอกต่อ",
+              "uri": "https://liff.line.me/1656419782-J32e76Np/?content=https://boss12123.github.io/tg789.json"
             },
-            "style": "primary"
+            "margin": "xl",
+            "height": "sm",
+            "style": "secondary",
+            "color": "#FFCC00"
           }
-        ]
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        },
+        "flex": 0
       }
     },
     {
@@ -85,9 +129,13 @@
       "hero": {
         "type": "image",
         "size": "full",
-        "aspectRatio": "2:2",
         "aspectMode": "cover",
-        "url": "https://www.img.in.th/images/3466ae31ca9cfaa24dba5338d7941550.jpg"
+        "url": "https://www.img.in.th/images/e3244c87f2a08d7c2b3bfb8f72cfbb94.jpg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/mSAH9pi"
+        }
       },
       "body": {
         "type": "box",
@@ -96,26 +144,60 @@
         "contents": [
           {
             "type": "text",
-            "text": "สมัครสมาชิกใหม่รับโบนัสได้ไม่อั้น",
+            "text": "สมัครสมาชิกใหม่รับโบนัส X2 ทันที",
             "wrap": true,
             "weight": "bold",
-            "size": "sm"
+            "size": "md"
           },
           {
             "type": "box",
             "layout": "baseline",
             "flex": 1,
-            "contents": []
+            "contents": [
+              {
+                "type": "text",
+                "text": "โบนัส X2 เล่นได้ทุกอย่าง ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "margin": "none",
+                "color": "#FFFF99"
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "เล่นได้ทุกอย่าง คาสิโน บอล หวย สล็อต"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คาสิโน บอล หวย สล็อต ยิงปลา",
+                "color": "#FFFF99",
+                "size": "sm",
+                "margin": "none"
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "ฝาก - ถอน ระบบ อัตโนมัติ"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ระบบ ฝาก - ถอน อัตโนมัติ รวดเร็วทันใจ",
+                "color": "#FFFF99",
+                "size": "sm",
+                "margin": "none"
+              }
+            ]
           }
-        ]
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FDF5E6"
+        }
       },
       "footer": {
         "type": "box",
@@ -124,13 +206,15 @@
         "contents": [
           {
             "type": "button",
-            "flex": 2,
-            "style": "primary",
+            "style": "secondary",
+            "color": "#FF0000",
             "action": {
               "type": "uri",
-              "label": "สมัครสมาชิก",
+              "label": "สมัครรับโบนัส",
               "uri": "https://ufa523.automebet.com/ufa523/ufabet/register"
-            }
+            },
+            "margin": "sm",
+            "height": "sm"
           },
           {
             "type": "button",
@@ -139,9 +223,20 @@
               "label": "รับโค้ดเครดิตฟรี",
               "uri": "https://lin.ee/mSAH9pi"
             },
-            "style": "primary"
+            "margin": "xl",
+            "height": "sm",
+            "style": "secondary",
+            "color": "#FFCC00"
           }
-        ]
+        ],
+        "flex": 0,
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        }
       }
     }
   ]
