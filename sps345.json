@@ -27,6 +27,18 @@
         "align": "center",
         "size": "xs",
         "color": "#B22222"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/09/16/Cjxc9N.png",
+            "size": "full",
+            "aspectRatio": "3:1"
+          }
+        ]
       }
     ],
     "width": "100%",
@@ -38,30 +50,6 @@
       "centerColor": "#FFD700"
     },
     "height": "100%"
-  },
-  "footer": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "image",
-        "url": "https://www.img.in.th/images/51c712b6f235804a80521865a3b0f0d1.jpg",
-        "size": "full",
-        "aspectRatio": "3:1",
-        "action": {
-          "type": "uri",
-          "label": "รับเครดิตฟรี",
-          "uri": "https://lin.ee/wTZfTMP"
-        }
-      }
-    ],
-    "background": {
-      "type": "linearGradient",
-      "angle": "0deg",
-      "startColor": "#FFFF00",
-      "endColor": "#FFCC33",
-      "centerColor": "#EEDD82"
-    }
   }
 }
 }]
