@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "เฮงซ้ำซ้อน เเจกเครดิตฟรีเวลานี้!!",
   "contents": {
   "type": "bubble",
   "hero": {
@@ -36,7 +36,12 @@
             "type": "image",
             "url": "https://sv1.picz.in.th/images/2021/09/16/Cjxc9N.png",
             "size": "full",
-            "aspectRatio": "3:1"
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "uri": "https://lin.ee/wTZfTMP",
+              "label": "รับเครดิตฟรี"
+            }
           }
         ]
       }
