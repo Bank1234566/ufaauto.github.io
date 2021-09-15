@@ -1,0 +1,67 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/6e4c94d54792b5a1acadc45c70b4f4fb.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี !!",
+        "color": "#FF0000",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่รับได้ทันที สามารถเล่นได้ทุกค่าย ถอนได้จริง ระบบอัตโนมัติทำรายการด้วยตนเอง",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#B22222"
+      }
+    ],
+    "width": "100%",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFD700",
+      "endColor": "#FFD700",
+      "centerColor": "#FFD700"
+    },
+    "height": "100%"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/09/16/Cjxc9N.png",
+        "size": "full",
+        "aspectRatio": "3:1",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/wTZfTMP"
+        }
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFFF00",
+      "endColor": "#FFCC33",
+      "centerColor": "#EEDD82"
+    }
+  }
+}
+}]
