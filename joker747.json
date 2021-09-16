@@ -17,18 +17,43 @@
         "layout": "vertical",
         "contents": [
           {
-            "type": "image",
-            "url": "https://www.img.in.th/images/d8c947db451a382df9631662a67f12f8.png",
-            "size": "full",
-            "aspectRatio": "4:1"
+            "type": "text",
+            "text": "JOKER747",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เกมสล็อตออนไลน์รูปแบบใหม่ แจกทุนฟรี ถอนเงินได้จริง ไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#CC9933"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุนฟรี",
+              "uri": "https://lin.ee/onhhWiT"
+            },
+            "style": "primary",
+            "color": "#660000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซต์",
+              "uri": "https://www.ufabet-618.com/register/index.php"
+            },
+            "style": "primary",
+            "color": "#000000"
           }
         ],
-        "background": {
-          "type": "linearGradient",
-          "angle": "0deg",
-          "startColor": "#000000",
-          "endColor": "#990000"
-        }
+        "margin": "none",
+        "spacing": "md"
       }
     }
   ]
