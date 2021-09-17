@@ -88,7 +88,7 @@
             "type": "image",
             "url": "https://www.img.in.th/images/a60d1adfc06adb37080cc949793d2f83.png",
             "size": "full",
-            "aspectRatio": "3:1",
+            "aspectRatio": "2:1",
             "action": {
               "type": "uri",
               "label": "action",
