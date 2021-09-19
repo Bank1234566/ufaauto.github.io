@@ -7,7 +7,8 @@
     "aspectRatio": "20:13",
     "aspectMode": "cover",
     "action": {
-      "type": "carousel"
+      "type": "uri",
+      "uri": "http://linecorp.com/"
     }
   },
   "body": {
@@ -47,7 +48,7 @@
         "action": {
           "type": "uri",
           "label": "รับเคดิตฟรี",
-          "uri": "https://liff.line.me/1656442503-9gJlnxxG/?content=https://boss12123.github.io/ufabet191.json"
+          "uri": "https://linecorp.com"
         }
       },
       {
