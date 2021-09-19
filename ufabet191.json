@@ -7,8 +7,7 @@
     "aspectRatio": "20:13",
     "aspectMode": "cover",
     "action": {
-      "type": "uri",
-      "uri": "http://linecorp.com/"
+      "type": "carousel"
     }
   },
   "body": {
