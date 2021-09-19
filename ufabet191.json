@@ -1,15 +1,14 @@
 [{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
   "type": "bubble",
   "hero": {
     "type": "image",
-    "url": "https://ufahunter.net/wp-content/uploads/2020/12/ufa5.jpg",
+    "url": "https://www.img.in.th/images/68fc4b789679f6bb356b95f0eea64606.jpg",
     "size": "full",
-    "aspectRatio": "20:13",
     "aspectMode": "cover",
-    "action": {
-      "type": "uri",
-      "uri": "http://linecorp.com/"
-    }
+    "aspectRatio": "2:1"
   },
   "body": {
     "type": "box",
@@ -17,55 +16,65 @@
     "contents": [
       {
         "type": "text",
-        "text": "เคดิตฟรี",
+        "text": "สมาชิกใหม่ รับเครดิตฟรี 100%",
         "weight": "bold",
-        "size": "xl",
-        "align": "center"
+        "align": "center",
+        "color": "#00FF7F"
       },
       {
-        "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": [
-          {
-            "type": "text",
-            "text": "รับได้ง่ายๆเพียบแชร์ภาพนี้ให้กับเพื่อนๆและรอรับเคดิตฟรีได้เลย"
-          }
-        ]
+        "type": "text",
+        "text": "รับได้ง่ายๆเพียบแชร์ภาพนี้ให้กับเพื่อนๆและรอรับเคดิตฟรีได้เลย",
+        "align": "center",
+        "weight": "regular",
+        "wrap": true,
+        "size": "xs",
+        "color": "#FFD700"
       }
-    ]
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    }
   },
   "footer": {
     "type": "box",
     "layout": "vertical",
-    "spacing": "sm",
     "contents": [
       {
         "type": "button",
-        "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
-          "label": "รับเคดิตฟรี",
-          "uri": "https://linecorp.com"
-        }
+          "label": "รับเครดิตฟรี",
+          "uri": "https://line.me/R/ti/p/%40544duzdc"
+        },
+        "style": "secondary",
+        "color": "#FF6347"
       },
       {
         "type": "button",
-        "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
-          "uri": "https://www.ufabet-191.com/",
-          "label": "สมัครรับโบนัส"
-        }
-      },
-      {
-        "type": "spacer",
-        "size": "sm"
+          "label": "เข้าสู่เว็บไซค์",
+          "uri": "https://www.ufabet-191.com/ufabet.html"
+        },
+        "style": "primary"
       }
     ],
-    "flex": 0
+    "spacing": "sm",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000033",
+      "centerColor": "#BEBEBE"
+    }
+  },
+  "styles": {
+    "header": {
+      "separator": true
+    }
   }
+}
 }]
