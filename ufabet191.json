@@ -1,61 +1,70 @@
-[{
-  "type": "flex",
-  "altText": "You received a message",
-  "contents": {
-  "type": "carousel",
-  "contents": [
-    {
-      "type": "bubble",
-      "hero": {
-        "type": "image",
-        "url": "https://ufahunter.net/wp-content/uploads/2020/12/ufa5.jpg",
-        "size": "full",
-        "aspectRatio": "1:1"
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://ufahunter.net/wp-content/uploads/2020/12/ufa5.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "carousel"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เคดิตฟรี",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
       },
-      "body": {
+      {
         "type": "box",
         "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
         "contents": [
           {
             "type": "text",
-            "text": "UFABET191",
-            "size": "xl",
-            "align": "center"
-          },
-          {
-            "type": "text",
-            "text": "รับได้ง่ายๆเพียบแชร์ภาพนี้ให้กับเพื่อนๆและรอรับเคดิตฟรีได้เลย",
-            "align": "center",
-            "size": "sm",
-            "margin": "xs",
-            "wrap": true,
-            "color": "#CC9933"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับทุนฟรี",
-              "uri": "https://liff.line.me/1656442503-9gJlnxxG/?content=https://boss12123.github.io/ufabet191.json"
-            },
-            "style": "primary",
-            "color": "#660000"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "เข้าสู่เว็บไซต์",
-              "uri": "https://www.ufabet-191.com/register/index.php"
-            },
-            "style": "primary",
-            "color": "#000000"
+            "text": "รับได้ง่ายๆเพียบแชร์ภาพนี้ให้กับเพื่อนๆและรอรับเคดิตฟรีได้เลย"
           }
-        ],
-        "margin": "none",
-        "spacing": "md"
+        ]
       }
-    }
-  ]
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "รับเคดิตฟรี",
+          "uri": "https://liff.line.me/1656442503-9gJlnxxG/?content=https://boss12123.github.io/ufabet191.json"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.ufabet-191.com/",
+          "label": "สมัครรับโบนัส"
+        }
+      },
+      {
+        "type": "spacer",
+        "size": "sm"
+      }
+    ],
+    "flex": 0
+  }
 }
-}]
