@@ -10,7 +10,7 @@
     "action": {
       "type": "uri",
       "label": "https://lin.ee/waCeXRk",
-      "uri": "http://linecorp.com/"
+      "uri": "https://lin.ee/waCeXRk"
     }
   },
   "body": {
@@ -53,7 +53,7 @@
     "action": {
       "type": "uri",
       "label": "https://lin.ee/waCeXRk",
-      "uri": "http://linecorp.com/"
+      "uri": "https://lin.ee/waCeXRk"
     }
   }
 }
