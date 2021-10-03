@@ -46,7 +46,12 @@
            "type": "image",
            "url": "https://www.img.in.th/images/4b028c7c3d9449fcfbcb419e356aaad6.gif",
            "size": "full",
-           "aspectRatio": "2:1"
+           "aspectRatio": "2:1",
+           "action": {
+             "type": "uri",
+             "label": "action",
+             "uri": "https://lin.ee/RwTHXAB"
+           }
          },
          {
            "type": "image",
