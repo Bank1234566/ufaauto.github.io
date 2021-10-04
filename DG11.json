@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "รับทรูวอเลทฟรี 50 บาทไม่ต้องฝากก่อน",
+  "altText": "โชคส่งท้ายปีแจกทรูวอเลทฟรี 50 บาท",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -69,7 +69,7 @@
             "action": {
               "type": "uri",
               "label": "📣บอกต่อเพื่อน📣",
-              "uri": "https://liff.line.me/1656419310-Dp9OM76Q/?content=https://boss12123.github.io/DG11.json"
+              "uri": "https://liff.line.me/1656419310-Dp9OM76Q/?content=https://boss12123.github.io/ufaauto.github.io/DG11.json"
             },
             "style": "primary"
           }
