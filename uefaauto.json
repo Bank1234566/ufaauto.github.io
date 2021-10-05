@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "UFA แจกฟรี 200 เครดิต รับได้ไม่อั้น",
+  "altText": "UFA จัดมหกรรมแจกฟรี 200 เครดิต รับได้ไม่อั้น",
   "contents": {
   "type": "bubble",
   "hero": {
@@ -19,7 +19,7 @@
     "contents": [
       {
         "type": "text",
-        "text": "เครดิตฟรี เล่นได้ทุกค่ายเกมส์",
+        "text": "⚽ เครดิตฟรี เล่นได้ทุกค่ายเกมส์ ⚽",
         "align": "center",
         "weight": "bold",
         "size": "md"
