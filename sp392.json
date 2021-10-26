@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "สมัครตอนนี้รับเครดิตรี 50",
+  "altText": "You received a message",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -128,7 +128,7 @@
                 "action": {
                   "type": "uri",
                   "label": "ติดต่อแอดมิน",
-                  "uri": "https://lin.ee/QOAKHsA"
+                  "uri": "https://lin.ee/djFPVv1"
                 },
                 "style": "primary",
                 "height": "sm",
