@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "⚽UFA แจกเครดิตฟรี เอาไปลองแล้วจะรู้ว่าจริงไหม",
+  "altText": "⚽UFA แจกเครดิตฟรี 50 เครดิต เอาไปลองแล้วจะรู้ว่าจริงไหม",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -42,7 +42,8 @@
               {
                 "type": "image",
                 "url": "https://www.img.in.th/images/8e552f3f38d36b8d076a5faee573ebf3.png",
-                "size": "3xl"
+                "size": "3xl",
+                "margin": "none"
               }
             ]
           },
@@ -67,7 +68,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แชร์เลย",
-                  "uri": "https://lin.ee/krE3VfX"
+                  "uri": "https://bit.ly/3jGKQj2"
                 },
                 "style": "secondary",
                 "margin": "sm",
