@@ -13,7 +13,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/krE3VfX"
+          "uri": "https://lin.ee/uncoj2A"
         }
       },
       "body": {
@@ -56,7 +56,7 @@
                 "action": {
                   "type": "uri",
                   "label": "รับเครดิตฟรี",
-                  "uri": "https://lin.ee/krE3VfX"
+                  "uri": "https://lin.ee/uncoj2A"
                 },
                 "style": "secondary",
                 "height": "sm",
@@ -95,7 +95,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/krE3VfX"
+          "uri": "https://lin.ee/uncoj2A"
         }
       },
       "body": {
@@ -134,7 +134,7 @@
                     "action": {
                       "type": "uri",
                       "label": "สมัครสมาชิก",
-                      "uri": "https://lin.ee/krE3VfX"
+                      "uri": "https://lin.ee/uncoj2A"
                     },
                     "height": "sm",
                     "style": "secondary",
@@ -146,7 +146,7 @@
                     "action": {
                       "type": "uri",
                       "label": "ติดต่อแอดมิน",
-                      "uri": "https://lin.ee/krE3VfX"
+                      "uri": "https://lin.ee/uncoj2A"
                     },
                     "height": "sm",
                     "style": "secondary",
