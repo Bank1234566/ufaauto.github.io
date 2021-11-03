@@ -67,18 +67,20 @@
                     "height": "sm",
                     "offsetTop": "none",
                     "offsetBottom": "xxl",
-                    "offsetEnd": "none"
+                    "offsetEnd": "none",
+                    "color": "#33CC00"
                   },
                   {
                     "type": "button",
                     "action": {
                       "type": "uri",
                       "label": "แชร์เลย",
-                      "uri": "https://bit.ly/3nXzUi4"
+                      "uri": "http://linecorp.com/"
                     },
                     "style": "primary",
                     "height": "sm",
-                    "margin": "sm"
+                    "margin": "sm",
+                    "color": "#33CC00"
                   }
                 ]
               }
@@ -153,7 +155,8 @@
                 },
                 "style": "primary",
                 "height": "sm",
-                "margin": "sm"
+                "margin": "sm",
+                "color": "#33CC00"
               },
               {
                 "type": "button",
@@ -164,7 +167,8 @@
                 },
                 "height": "sm",
                 "style": "primary",
-                "margin": "sm"
+                "margin": "sm",
+                "color": "#33CC00"
               }
             ]
           }
