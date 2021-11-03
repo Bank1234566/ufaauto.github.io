@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "เครดิตฟรีมีแจกไม่จำกัด ด่วนๆ❗❗",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -74,7 +74,7 @@
                     "action": {
                       "type": "uri",
                       "label": "แชร์เลย",
-                      "uri": "http://linecorp.com/"
+                      "uri": "https://bit.ly/3nXzUi4"
                     },
                     "style": "primary",
                     "height": "sm",
