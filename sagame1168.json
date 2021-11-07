@@ -34,7 +34,7 @@
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "แจกเครดิตฟรี",
+          "label": "รับเครดิตฟรี",
           "uri": "https://lin.ee/YEegjol"
         },
         "style": "primary"
@@ -44,7 +44,7 @@
         "action": {
           "type": "uri",
           "label": "แชร์เลย",
-          "uri": "http://linecorp.com/"
+          "uri": "https://liff.line.me/1656609922-XyMkw78E/?content=https://boss12123.github.io/ufaauto.github.io/sagame1168.json"
         },
         "style": "primary",
         "offsetTop": "sm"
