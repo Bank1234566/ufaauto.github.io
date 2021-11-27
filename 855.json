@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "เอาไปเลยเครดิตฟรี ไม่ต้องรอคิว‼",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -65,7 +65,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แชร์ต่อ",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://bit.ly/3DY1Kld"
                 },
                 "style": "primary",
                 "margin": "xs",
@@ -148,7 +148,7 @@
                 "action": {
                   "type": "uri",
                   "label": "บอกต่อ",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://bit.ly/3DY1Kld"
                 },
                 "style": "primary",
                 "height": "sm",
