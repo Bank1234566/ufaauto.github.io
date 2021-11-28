@@ -1,0 +1,38 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2021/11/28/6K8Joz.jpg",
+    "size": "full",
+    "align": "center",
+    "margin": "xxl",
+    "position": "absolute",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/za9zRBt"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": []
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "คลิกเพื่อรับฟรี",
+        "weight": "bold",
+        "size": "3xl",
+        "color": "#ADFF2F"
+      }
+    ]
+  }
+}
+}]
