@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🐲มังกรเเจกโชค!!",
+  "altText": "ที่รักคะ เค้าคิดถึง💖",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -49,7 +49,7 @@
             "action": {
               "type": "uri",
               "label": "ใส่โค๊ดเครดิตฟรี",
-              "uri": "https://lin.ee/LjFcFdm"
+              "uri": "https://lin.ee/EvumKBU"
             },
             "style": "secondary",
             "color": "#FFD700"
@@ -59,7 +59,7 @@
             "action": {
               "type": "uri",
               "label": "เเชร์รับทรัพย์",
-              "uri": "https://liff.line.me/1656241953-JXyLjYgV/?content=https://boss12123.github.io/joii923.json"
+              "uri": "https://bit.ly/2ZxIPyg"
             },
             "color": "#FF0000",
             "style": "primary"
@@ -127,7 +127,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/LjFcFdm"
+              "uri": "https://lin.ee/EvumKBU"
             },
             "color": "#FF0000",
             "style": "primary"
@@ -190,7 +190,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/LjFcFdm"
+              "uri": "https://lin.ee/EvumKBU"
             },
             "color": "#FF0000",
             "style": "primary"
