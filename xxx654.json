@@ -1,0 +1,127 @@
+[{
+  "type": "flex",
+  "altText": "หนูเงี่ยนมาก",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/1f947b67de43c2a03bfb338e8a99d9a4.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥ย้ำ !! ว่าเข้าฟรีกลุ่มลับนักศึกษา ",
+            "weight": "bold",
+            "align": "center",
+            "color": "#CC33FF"
+          },
+          {
+            "type": "text",
+            "text": "ไลฟ์สดถอดหมดตลอดคืน นักศึกษาม.ดัง ถอดหมดไม่มีกั้ก เข้าฟรีไม่มีค่าใช้จ่าย",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#FF66FF"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💖เข้ากลุ่มลับนักศึกษา",
+              "uri": "https://lin.ee/nAHrnZf"
+            },
+            "style": "primary",
+            "color": "#FF33FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "💓ดูไลฟ์สดถอดหมด",
+              "uri": "https://lin.ee/nAHrnZf"
+            },
+            "style": "primary",
+            "color": "#FF99FF"
+          }
+        ],
+        "spacing": "sm"
+      },
+      "styles": {
+        "hero": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b5381b03076e3fbdb43c6dcd0333a9e0.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "💖คลิปเด็ดไลฟ์ถอดไม่เหลือสักชิ้น !!",
+            "align": "center",
+            "weight": "bold",
+            "color": "#CC33FF"
+          },
+          {
+            "type": "text",
+            "text": "เเสดงสดหน้ากล้อง ! เล่นจริงไม่เซ็นเซอร์ ไม่เบลอ เห็นชัดทุกรูปขุมขน",
+            "size": "sm",
+            "color": "#FF66FF",
+            "align": "center",
+            "wrap": true
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้ากลุ่มลับ 18+",
+              "uri": "https://lin.ee/nAHrnZf"
+            },
+            "style": "primary",
+            "color": "#FF33FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิปหลุดพริตตี้ 20+",
+              "uri": "https://lin.ee/nAHrnZf"
+            },
+            "style": "primary",
+            "color": "#FF99FF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]
