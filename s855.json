@@ -6,7 +6,12 @@
   "hero": {
     "type": "image",
     "url": "https://www.img.in.th/images/d7e9a01ba7f909edaf3a9545232abea0.jpg",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
   },
   "body": {
     "type": "box",
@@ -40,7 +45,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/ZLrDoRk"
             },
             "style": "link",
             "color": "#FFFF00",
