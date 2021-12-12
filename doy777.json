@@ -36,7 +36,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แชร์รับเครดิตฟรี",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://shorturl.asia/lPSf9"
                 },
                 "height": "sm",
                 "style": "secondary",
@@ -112,7 +112,7 @@
                 "action": {
                   "type": "uri",
                   "label": "บอกต่อ",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://shorturl.asia/lPSf9"
                 },
                 "color": "#FF6600",
                 "style": "secondary",
