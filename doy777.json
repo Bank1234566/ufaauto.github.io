@@ -1,0 +1,160 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/264db17426b91005aacd7c060e7b14ea.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เล่นได้ ถอนได้จริง",
+            "weight": "bold",
+            "align": "center",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอน ระบบออโต้",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์รับเครดิตฟรี",
+                  "uri": "http://linecorp.com/"
+                },
+                "height": "sm",
+                "style": "secondary",
+                "color": "#FF6600"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อรับเครดิตฟรี",
+                  "uri": "https://lin.ee/zMAlpf9"
+                },
+                "color": "#00CC00",
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถามเพิ่มเติม",
+                  "uri": "https://lin.ee/zMAlpf9"
+                },
+                "color": "#FF3300",
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FFFACD",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/2eb17e8870baa4602f4ddaab27d6f940.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่ฝากตอนนี้รับทันที",
+            "weight": "bold",
+            "align": "center",
+            "margin": "none",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอน ระบบออโต้",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "บอกต่อ",
+                  "uri": "http://linecorp.com/"
+                },
+                "color": "#FF6600",
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://lin.ee/zMAlpf9"
+                },
+                "color": "#00CC00",
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถามเพิ่มเติม",
+                  "uri": "https://lin.ee/zMAlpf9"
+                },
+                "color": "#FF3300",
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FFFACD",
+          "centerColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]
