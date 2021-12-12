@@ -1,0 +1,146 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/da88be08267cc819109f3f525fed72f7.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/JmS4K0O"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ซานต้ามาแล้ว",
+            "color": "#FF3333",
+            "weight": "bold",
+            "align": "center",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "🎅 แจกเครดิตฟรี 50 เครดิต 🎅",
+            "align": "center",
+            "weight": "regular",
+            "color": "#87CEFA"
+          },
+          {
+            "type": "text",
+            "text": "🎄 ของขวัญปีใหม่รับได้ทุกคน 🎄",
+            "weight": "regular",
+            "align": "center",
+            "color": "#87CEFA"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/JmS4K0O"
+                },
+                "style": "primary",
+                "margin": "lg",
+                "height": "sm",
+                "color": "#FF4500"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "บอกต่อ",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "margin": "lg",
+                "height": "sm",
+                "color": "#0099FF"
+              }
+            ],
+            "margin": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/0f6acc7d2aaeb48593ed26feb392118a.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกต่อเนื่อง",
+            "color": "#FF3333",
+            "weight": "bold",
+            "align": "center",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "⛄ ฝาก 200 รับ 300 ⛄",
+            "align": "center",
+            "color": "#87CEFA"
+          },
+          {
+            "type": "text",
+            "text": "⛄ ฝาก 500 รับ 700 ⛄",
+            "align": "center",
+            "color": "#87CEFA"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ฝาก",
+                  "uri": "https://lin.ee/JmS4K0O"
+                },
+                "color": "#FF4500",
+                "height": "sm",
+                "style": "primary",
+                "margin": "lg"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แอดมิน",
+                  "uri": "https://lin.ee/JmS4K0O"
+                },
+                "margin": "lg",
+                "height": "sm",
+                "style": "primary",
+                "color": "#0099FF"
+              }
+            ],
+            "margin": "lg"
+          }
+        ]
+      }
+    }
+  ]
+}
+}]
