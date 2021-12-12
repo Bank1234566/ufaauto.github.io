@@ -47,7 +47,7 @@
                 "action": {
                   "type": "uri",
                   "label": "ติดต่อรับเครดิตฟรี",
-                  "uri": "https://lin.ee/XM1l7NY"
+                  "uri": "https://lin.ee/uAWqyMn"
                 },
                 "color": "#FF6600",
                 "height": "sm",
@@ -59,7 +59,7 @@
                 "action": {
                   "type": "uri",
                   "label": "สอบถามเพิ่มเติม",
-                  "uri": "https://lin.ee/XM1l7NY"
+                  "uri": "https://lin.ee/uAWqyMn"
                 },
                 "color": "#FFFF00",
                 "style": "secondary",
@@ -122,7 +122,7 @@
                 "action": {
                   "type": "uri",
                   "label": "สมัคร",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/uAWqyMn"
                 },
                 "color": "#FF6600",
                 "style": "secondary",
@@ -134,7 +134,7 @@
                 "action": {
                   "type": "uri",
                   "label": "สอบถามเพิ่มเติม",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/uAWqyMn"
                 },
                 "margin": "lg",
                 "height": "sm",
