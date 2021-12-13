@@ -1,0 +1,60 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/361196a72b750b010407a04a21cd0f89.jpg",
+    "size": "full",
+    "aspectRatio": "1:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ระบบอัตโนมัติ 24 ชั่วโมง",
+        "weight": "bold",
+        "align": "center",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "ฝากถอนรวดเร็ว รวมทุกคาสิโน เล่นง่าย ได้เงินจริง  เเอดมินบริการ 24 ชั่วโมง ",
+        "wrap": true,
+        "size": "xs",
+        "align": "center",
+        "color": "#FFD700"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://ufa-bet191.com/member/home"
+        },
+        "style": "primary",
+        "color": "#FF3333"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับโบนัส",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary"
+      }
+    ],
+    "spacing": "sm"
+  }
+}
+}]
