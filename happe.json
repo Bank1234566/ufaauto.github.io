@@ -1,0 +1,60 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2021/12/14/6nxX8b.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UAsSbQy"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ง่ายๆ แค่สมัครก็รับได้",
+        "align": "center",
+        "size": "xl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "🎉ส่งท้ายปีแจกฟรี 300 เครดิต🎉",
+        "align": "center",
+        "color": "#FFFFCC"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครเครดิตฟรี",
+              "uri": "https://lin.ee/UAsSbQy"
+            },
+            "style": "secondary",
+            "color": "#FFFF00"
+          }
+        ],
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF33CC",
+      "endColor": "#FFCCFF",
+      "centerColor": "#FF66CC"
+    }
+  }
+}
+}]
