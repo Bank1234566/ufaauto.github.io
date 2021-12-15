@@ -1,0 +1,58 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/d358eb2d0a18746abe912f0816c75f12.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อความอัตโนมัติ24ชั่วโมง",
+        "size": "sm",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ฝาก ถอน โอน ไว",
+        "weight": "bold",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary",
+        "color": "#FF0000"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ฝาก ถอน",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary",
+        "color": "#990099"
+      }
+    ],
+    "spacing": "sm"
+  }
+}
+}]
