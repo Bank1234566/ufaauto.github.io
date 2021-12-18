@@ -1,0 +1,17 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://s4.aconvert.com/convert/p3r68-cdx67/afnaw-xclza.png",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": []
+  }
+}
+}]
