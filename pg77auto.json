@@ -1,0 +1,148 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรีรับสิ้นปี !!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/12/18/6aRudu.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufa-bet191.com/member/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/uploads/2021/09/เช็คชื่อตัดยอดเล่น-pgslot779.png",
+            "size": "full",
+            "offsetTop": "none",
+            "offsetBottom": "none",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/aeed4c7ad23449dcb51f1e3cbc5b22d7.gif",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/b889da8db0079b5bf3a6dd6923d59162.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/51589cdbc9266d6a7948d27be8278616.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "spacing": "md",
+        "margin": "none"
+      },
+      "styles": {
+        "header": {
+          "backgroundColor": "#8A2BE2"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/72b65dad636ec869e926cdd601759130.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufa-bet191.com/member/home"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/1e6d5d3d99490053a94bf97c9eb10194.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufa-bet191.com/member/home"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/dw-ios.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/dw-ad.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "spacing": "md",
+        "margin": "none"
+      }
+    }
+  ]
+}
+}]
