@@ -1,0 +1,57 @@
+[{
+  "type": "flex",
+  "altText": "ฉลองปีใหม่แจกฟรี 100 เครดิต",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/451b774064c12f3bb35adbcc62c95a70.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "text",
+        "text": " 🧧  ฉลองต้อนรับปีใหม่ MAFIA 1689  🧧",
+        "align": "center",
+        "color": "#FF8C00",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "กิจกรรมแจกเครดิตฟรี 100 ส่งท้ายปี",
+        "align": "center",
+        "color": "#FF1493",
+        "size": "lg"
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f74a1af554b6833ee9c7d8a6a442a195.png",
+        "aspectRatio": "3:1",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      }
+    ],
+    "flex": 0,
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#1E90FF"
+    }
+  }
+}
+}]
