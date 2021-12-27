@@ -13,7 +13,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/AwO9DiI"
+          "uri": "https://lin.ee/2cDYj5X"
         }
       },
       "footer": {
@@ -53,7 +53,7 @@
                 "action": {
                   "type": "uri",
                   "label": "รับเครดิต",
-                  "uri": "https://lin.ee/AwO9DiI"
+                  "uri": "https://lin.ee/2cDYj5X"
                 },
                 "style": "primary",
                 "margin": "none",
@@ -78,7 +78,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แอดมิน",
-                  "uri": "https://lin.ee/AwO9DiI"
+                  "uri": "https://lin.ee/2cDYj5X"
                 },
                 "style": "primary",
                 "height": "sm",
@@ -160,7 +160,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แอดมิน",
-                  "uri": "https://lin.ee/AwO9DiI"
+                  "uri": "https://lin.ee/2cDYj5X"
                 },
                 "style": "primary",
                 "height": "sm",
