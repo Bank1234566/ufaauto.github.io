@@ -1,69 +1,141 @@
 [{
-  "type": "flex",
-  "altText": ",มันส่งท้ายปีแจกเครดิตฟรีไม่อั้น",
-  "contents": {
-  "type": "bubble",
-  "hero": {
-    "type": "image",
-    "url": "https://sv1.picz.in.th/images/2021/12/21/6JsyGa.jpg",
-    "size": "full",
-    "aspectRatio": "2:2",
-    "aspectMode": "cover",
-    "action": {
-      "type": "uri",
-      "uri": "http://linecorp.com/"
-    }
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "เครดิตฟรี 50 บาท รีบมารับไปเลย",
-        "align": "center",
-        "color": "#330000",
-        "size": "md"
-      },
-      {
-        "type": "text",
-        "text": "แจกวันละ250 ยูสเซอร์เท่านั้น",
-        "align": "center",
-        "color": "#FF0000",
-        "size": "md"
-      },
-      {
-        "type": "text",
-        "text": "👇สนใจกดปุ่มด้านล่างได้เลย👇",
-        "size": "md",
-        "align": "center",
-        "color": "#FFD700"
-      },
-      {
+        "type": "flex",
+        "altText": "จัดให้ฟรีฟรี 50 เครดิต",
+    "type": "flex",
+    "contents": {
+  "type": "carousel",
+  "contents": [
+  {
+       "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "direction": "ltr",
+      "hero": {
         "type": "image",
-        "url": "https://sv1.picz.in.th/images/2021/12/21/6J2F1V.png",
-        "aspectRatio": "1:1",
-        "size": "4xl"
+        "url": "https://www.img.in.th/images/becf4ed79f5cada5f471bafd8b284630.jpg",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover"
       },
-      {
-        "type": "image",
-        "url": "https://sv1.picz.in.th/images/2021/12/21/6J2pEe.png",
-        "aspectRatio": "2:1",
-        "size": "5xl",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/5vndEuk"
-        }
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#000000",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 50 บาท รีบมารับไปเลย",
+            "size": "xl",
+            "color": "#FFD700",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แจกวันละ250 ยูสเซอร์เท่านั้น",
+                "weight": "bold",
+                "size": "md",
+                "color": "#FFD700",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#000000",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://linecorp.com"
+            },
+            "color": "#339933",
+            "style": "primary"
+          }
+        ]
       }
-    ],
-    "backgroundColor": "#FF6600",
-    "background": {
-      "type": "linearGradient",
-      "angle": "0deg",
-      "startColor": "#000000",
-      "endColor": "#EEB422"
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "direction": "ltr",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b6f49fd60bacbf527163db777b7c4d30.jpg",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#000000",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกให้รับ ทันทีโปร 100 %",
+            "weight": "bold",
+            "size": "xxl",
+            "color": "#FFD700",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "พร้อมกิจกรรมอีกมากมาย ให้คุณได้ลอง",
+                "weight": "regular",
+                "size": "lg",
+                "color": "#FFD700",
+                "flex": 0,
+                "align": "center",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "backgroundColor": "#000000",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://ufagold87.automebet.com/ufagold87/ufabet/login"
+            },
+            "flex": 2,
+            "color": "#339933",
+            "style": "primary"
+          }
+        ]
+      }
     }
-  }
-}
-}]
+  ]
