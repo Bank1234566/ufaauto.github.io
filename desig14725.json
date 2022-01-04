@@ -1,0 +1,71 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+ {
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/eb082249558136b00c61c9facf3379c3.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "fit"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#24D280FF",
+    "borderColor": "#000000FF",
+    "contents": [
+      {
+        "type": "text",
+        "text": "วิธีรับเครดิตฟรี LASVEGUS623",
+        "weight": "bold",
+        "size": "md",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "กดปุ่มเเชร์ด้านล่างนี้ เเชร์ลงกลุ่ม 10 กลุ่ม ",
+        "weight": "bold",
+        "size": "xs",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "งดส่งหลักฐานส่งที่ไลน์นี้ กรณีลูกค้าทำกิจกรรมไม่ครบ ทางเว็บขออนุญาติตัดสิธิ์ทันที",
+        "weight": "bold",
+        "size": "xs",
+        "color": "#FFFFFFFF",
+        "align": "center",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "md",
+    "backgroundColor": "#24D280FF",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์ 10 กลุ่ม คลิ๊ก",
+          "uri": "https://liff.line.me/1656369767-095PyzNX/?content=https://boss12123.github.io/lasvegus623.json"
+        },
+        "color": "#FF4D37ED",
+        "style": "primary"
+      }
+    ]
+  }
+}
+}]
