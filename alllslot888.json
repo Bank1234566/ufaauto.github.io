@@ -1,0 +1,77 @@
+[{
+  "type": "flex",
+  "altText": "🎅ซานต้าแจกต่อเนื่อง 50 เครดิต🎄",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/cd7b30b608a3112c9eaba6a9ef75760e.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/yzIBkVG"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ซานต้ามาแล้ว แจกกันยาวๆไปเลย",
+        "margin": "xs",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CC3300"
+      },
+      {
+        "type": "text",
+        "text": "แจกรัวๆ แจกไม่มีพัก รับได้เลยไม่ต้องฝากก่อน",
+        "align": "center",
+        "margin": "xs",
+        "size": "md",
+        "weight": "bold",
+        "color": "#2F4F4F"
+      },
+      {
+        "type": "text",
+        "text": "อยากได้เครดิตฟรี รีบทักมา",
+        "align": "center",
+        "size": "md",
+        "margin": "xs",
+        "weight": "bold",
+        "color": "#2F4F4F"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ทักรับเครดิตฟรี",
+              "uri": "https://lin.ee/yzIBkVG"
+            },
+            "position": "relative",
+            "color": "#00FF00",
+            "margin": "md",
+            "style": "secondary"
+          }
+        ],
+        "margin": "lg"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#0066CC",
+      "endColor": "#00CCFF",
+      "centerColor": "#0099FF"
+    }
+  }
+}
+}]
