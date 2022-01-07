@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "✨เเจกเครดิตฟรีสิ้นปีนี้ !!",
+  "altText": "✨เเจกเครดิตฟรีไม่ต้องฝาก !!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -89,7 +89,7 @@
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://www.ufa-bet191.com/member/home"
+              "uri": "https://allufabet789.online/home"
             }
           }
         ],
@@ -105,7 +105,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://www.ufa-bet191.com/member/home"
+          "uri": "https://allufabet789.online/home"
         }
       },
       "body": {
@@ -134,7 +134,7 @@
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://www.ufa-bet191.com/member/home"
+              "uri": "https://allufabet789.online/home"
             }
           }
         ],
