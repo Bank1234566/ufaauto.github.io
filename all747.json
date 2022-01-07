@@ -1,0 +1,67 @@
+[{
+  "type": "flex",
+  "altText": "📲ฟรี 50 เครดิต ไม่ต้องฝากก่อน💓",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/3918e19930e1d041ec62caee89f27891.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://lin.ee/8iysTAy"
+    },
+    "margin": "xs"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เครดิตฟรีไม่ต้องฝากก่อน",
+        "margin": "xs",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "รับได้ทุกคน ทั้งลูกค้าเก่าและใหม่",
+        "margin": "none",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allbet189th.com/"
+            },
+            "style": "primary",
+            "margin": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "กิจกรรมเครดิตฟรี",
+              "uri": "https://lin.ee/8iysTAy"
+            },
+            "style": "primary",
+            "margin": "sm"
+          }
+        ],
+        "margin": "xl"
+      }
+    ]
+  }
+}
+}]
