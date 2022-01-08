@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "✨เเจกเครดิตฟรีไม่ต้องฝาก!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/89c047858a524e1eff3274f55e272276.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://allufabet789.online/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี ไม่มีเงื่อนไข !!!",
+        "align": "center",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#FFA500"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกใหม่ รับได้ทันทีไม่ต้องฝากก่อน สามารถเล่นได้ทุกค่าย ถอนได้จริง",
+        "wrap": true,
+        "size": "md",
+        "align": "center",
+        "color": "#778899",
+        "offsetBottom": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/jbsjdym"
+            },
+            "style": "primary",
+            "color": "#8A2BE2"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#9370DB"
+          }
+        ],
+        "spacing": "sm"
+      }
+    ],
+    "spacing": "sm"
+  }
+}
+}]
