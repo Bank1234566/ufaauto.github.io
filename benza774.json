@@ -1,0 +1,76 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://chat-content.line.biz/bot/Ub492156850c960a665dfe19e9a755143/2-vRNNzDm752MwzqxvRNFZEkTwCl5PhJA3EuZFdZQtP-dUFFEA_So5nKazxsZwJ5oIdqShmHAnORd8AG7uR88rFWtfH40m30UF2VIwZnExORZf3tFf7PJNLneFUTiOFQ",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัครผ่านระบบอัตโนมัติ",
+        "align": "center",
+        "size": "xl",
+        "color": "#2F4F4F"
+      },
+      {
+        "type": "text",
+        "text": "ฝาก 100 รับ 200 ฝาก 200 รับ 400",
+        "align": "center",
+        "size": "lg",
+        "color": "#FF3333",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "ฝาก 300 รับ 600 ฝาก 400 รับ 800",
+        "size": "lg",
+        "align": "center",
+        "color": "#FF3333",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "ฝากถอนรวดเร็ว รวมทุกคาสิโนไว้ที่เดียว",
+        "align": "center",
+        "size": "md",
+        "color": "#2F4F4F"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://lin.ee/6hYFA5n"
+        },
+        "style": "primary",
+        "color": "#00FF7F"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/6hYFA5n"
+        },
+        "style": "primary",
+        "color": "#FF6347"
+      }
+    ],
+    "spacing": "md"
+  }
+}
+}]
