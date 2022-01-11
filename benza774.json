@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "มีสายเรียกเข้า",
   "contents": {
   "type": "bubble",
   "size": "giga",
