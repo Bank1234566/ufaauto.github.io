@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "สมัครใหม่รับฟรี",
+  "altText": "สมีครใหม่รับฟรี",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -43,22 +43,13 @@
         "size": "md",
         "color": "#2F4F4F"
       }
-    ]
+    ],
+    "backgroundColor": "#99FF99"
   },
   "footer": {
     "type": "box",
-    "layout": "vertical",
+    "layout": "horizontal",
     "contents": [
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "สมัครสมาชิก",
-          "uri": "https://lin.ee/6hYFA5n"
-        },
-        "style": "primary",
-        "color": "#00FF7F"
-      },
       {
         "type": "button",
         "action": {
@@ -67,10 +58,21 @@
           "uri": "https://lin.ee/6hYFA5n"
         },
         "style": "primary",
-        "color": "#FF6347"
+        "color": "#00CC66"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์ให้เพื่อน",
+          "uri": "https://lin.ee/6hYFA5n"
+        },
+        "style": "primary",
+        "color": "#FF0000"
       }
     ],
-    "spacing": "md"
+    "spacing": "md",
+    "backgroundColor": "#99FF99"
   }
 }
 }]
