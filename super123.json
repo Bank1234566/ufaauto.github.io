@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรี 100 เเจกให้ไม่อั้น",
+  "altText": "เเจกเครดิตฟรี 200 เเจกให้ไม่มีเงื่อนไข",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -112,7 +112,7 @@
             "action": {
               "type": "uri",
               "label": "สมัครสมาชิก",
-              "uri": "http://ufa-bet191.com/"
+              "uri": "https://allufabet789.online/"
             },
             "style": "primary",
             "color": "#0000FF"
@@ -122,7 +122,7 @@
             "action": {
               "type": "uri",
               "label": "รับโบนัส",
-              "uri": "http://ufa-bet191.com/"
+              "uri": "https://allufabet789.online/"
             },
             "style": "primary",
             "color": "#6699FF"
@@ -178,7 +178,7 @@
             "action": {
               "type": "uri",
               "label": "สมัครรับโบนัส",
-              "uri": "http://ufa-bet191.com/"
+              "uri": "https://allufabet789.online/"
             },
             "color": "#0000FF",
             "style": "primary"
