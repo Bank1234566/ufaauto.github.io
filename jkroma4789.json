@@ -1,0 +1,77 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี 300 บาทไม่ต้องฝากก่อน!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/556539280fcc321e3c0cd6957068672d.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "uri": "https://allufabet789.online/home"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "JOKERROMA ",
+        "size": "xl",
+        "align": "center",
+        "weight": "bold",
+        "color": "#F8F8FF"
+      },
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 300 บาท  ไม่ต้องฝากก่อน ไม่มีเงื่อนไขรับได้ฟรี เล่นได้ทุกค่ายเกม ถอนได้จริง",
+        "align": "center",
+        "wrap": true,
+        "size": "md",
+        "color": "#FFFACD"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/t45Ayti"
+        },
+        "color": "#FF0000"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://allufabet789.online/home"
+        },
+        "color": "#00FF7F",
+        "margin": "md"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#000000"
+  }
+}
+}]
