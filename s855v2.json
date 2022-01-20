@@ -1,0 +1,66 @@
+[{
+  "type": "flex",
+  "altText": "✨แจกส่งท้ายปี ไม่มีเงื่อนไข✨",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/d7e9a01ba7f909edaf3a9545232abea0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/s2sBD4v"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎉ส่งท้ายปีก็แจกดีๆไปเลย🎉",
+        "weight": "bold",
+        "align": "center",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "แจก 100 ทำได้ 500 ถอนไปเลย 300",
+        "style": "italic",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "เล่นได้ทุกค่ายเกมส์ไม่จำกัดเดิมพัน",
+        "style": "italic",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/s2sBD4v"
+            },
+            "style": "link",
+            "color": "#FFFF00",
+            "height": "sm",
+            "margin": "md"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#660099",
+      "endColor": "#ffffff"
+    }
+  }
+}
+}]
