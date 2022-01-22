@@ -1,0 +1,17 @@
+[{
+  "type": "flex",
+  "altText": "เทส",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/6af2904b8f1b2be90e4807edb7fa3a60.png",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": []
+  }
+}
+}]
