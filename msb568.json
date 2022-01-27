@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/bb0940256f3fb7282fe245587def7808.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/KDgZyWw"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี รับได้ง่ายๆเพียงสมัครรับได้เลย !!",
+        "align": "center",
+        "weight": "bold",
+        "size": "sm",
+        "color": "#AFEEEE"
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "wrap": true,
+        "text": "สมัครสมาชิกใหม่ รับทีนที 100 เครดิต เครดิตฟรีเล่นได้ทุกค่ายเกม สามารถถอนได้จริง สมัครวันนี้จำนวนจำกัด",
+        "size": "xs",
+        "margin": "sm",
+        "color": "#E0FFFF"
+      }
+    ],
+    "backgroundColor": "#000080"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/KDgZyWw"
+        },
+        "style": "primary",
+        "color": "#7B68EE"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://allufabet789.online/"
+        },
+        "style": "primary",
+        "color": "#8A2BE2"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#000080"
+  }
+}
+}]
