@@ -1,0 +1,103 @@
+[{
+  "type": "flex",
+  "altText": "✨มาลุ้นเครดิตฟรีกันใครจะได้เท่าไหร่ สูงสุด 300 เครดิต 🥩",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/a154918bca0395c40f2252399e923e8f.jpg",
+    "size": "full",
+    "margin": "none",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/B4GRHis"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกไม่อั้น ถอนไม่จำกัด ",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "ไม่ต้องฝากก่อน แจกเริ่มต้น 50 เครดิต",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "สูงสุดถึง 300 เครดิต  (เลือกสุ่มได้คนละ 1 ครั้งเท่านั้น)",
+        "size": "sm",
+        "weight": "bold",
+        "align": "center",
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/e57274097855cdbb6f407286109a3fe5.gif"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/B4GRHis"
+                },
+                "style": "secondary",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "บอกต่อรับเครดิตฟรี",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "secondary",
+                "margin": "md",
+                "color": "#FFFF00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถามเพิ่มเติม",
+                  "uri": "https://lin.ee/B4GRHis"
+                },
+                "style": "primary",
+                "margin": "md",
+                "color": "#0000FF"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF3333",
+      "endColor": "#ffffff",
+      "centerColor": "#FF3333"
+    }
+  }
+}
+}]
