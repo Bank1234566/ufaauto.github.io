@@ -1,11 +1,12 @@
 [{
   "type": "flex",
-  "altText": "Yaaaaou received a message",
+  "altText": "Yaaage",
   "contents": {
   "type": "bubble",
+  "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://sv1.picz.in.th/images/2021/08/26/Cdtn0n.png",
+    "url": "https://sv1.picz.in.th/images/2022/01/30/npDh02.png",
     "size": "full",
     "animated": true
   },
