@@ -1,0 +1,77 @@
+[{
+  "type": "flex",
+  "altText": "📸สแกน ทัก รับได้เลย เครดิตฟรี",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/39d8ff1be6e09138d9c0610ff3705638.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/WPWnCG0"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สแกนคิวอาร์นี้ก็รับเครดิตฟรีได้เลย",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl",
+        "margin": "none"
+      },
+      {
+        "type": "text",
+        "text": "ระบบอัตโนมัติ ไม่ต้องฝากก่อน",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/WPWnCG0"
+            },
+            "style": "secondary",
+            "margin": "md",
+            "color": "#CCCC00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์ให้เพื่อน",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "secondary",
+            "margin": "md",
+            "color": "#33CC33",
+            "gravity": "center"
+          }
+        ],
+        "spacing": "none",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#CCFFCC",
+      "endColor": "#FFFFFF"
+    }
+  }
+}
+}]
