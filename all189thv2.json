@@ -1,0 +1,177 @@
+[{
+  "type": "flex",
+  "altText": "✨เครดิตฟรีรับได้เลย ไม่ต้องฝากก่อน💖",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/52d7a1704ecd68dbc9b8465cd1805e5e.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufaauto789.co/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 100 เล่นง่าย",
+            "style": "normal",
+            "decoration": "none",
+            "position": "relative",
+            "gravity": "center",
+            "wrap": true,
+            "offsetTop": "none",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ จ่ายจริงถอนเงินสดได้เลย",
+            "weight": "regular",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ระบบ ฝาก/ถอน อัตโนมัติ รวดเร็วทันใจ",
+            "weight": "regular",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อแอดมิน",
+                  "uri": "https://lin.ee/WPWnCG0"
+                },
+                "gravity": "center",
+                "style": "primary",
+                "offsetTop": "none",
+                "offsetStart": "none",
+                "height": "sm",
+                "margin": "md",
+                "color": "#FF9900"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ให้เพื่อน",
+                  "uri": "http://linecorp.com/"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "offsetTop": "none",
+                "offsetStart": "none",
+                "gravity": "center",
+                "color": "#FF9900"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#33CC33",
+          "endColor": "#ffffff"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/fbc0f772b0e9f32fd0754945ab348957.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://ufaauto789.co/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ALLBET 189TH",
+            "size": "xl",
+            "position": "relative",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FF0000"
+          },
+          {
+            "type": "text",
+            "text": "บริการครบวงจร บาคาร่า สล็อต ยิงปลา กีฬา",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกฟรี ฝากไม่มีขั้นต่ำ",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครสมาชิก",
+                  "uri": "https://ufaauto789.co/"
+                },
+                "gravity": "center",
+                "color": "#FF9900",
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "offsetTop": "none",
+                "offsetStart": "none"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ให้เพื่อน",
+                  "uri": "https://lin.ee/WPWnCG0"
+                },
+                "margin": "md",
+                "height": "sm",
+                "color": "#FF9900",
+                "style": "primary",
+                "gravity": "center",
+                "offsetTop": "none",
+                "offsetStart": "none"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#33CC33",
+          "endColor": "#ffffff"
+        }
+      }
+    }
+  ]
+}
+}]
