@@ -80,7 +80,7 @@
                 "color": "#FF9900"
               }
             ],
-            "margin": "sm"
+            "margin": "lg"
           }
         ],
         "background": {
@@ -160,7 +160,8 @@
                 "offsetTop": "none",
                 "offsetStart": "none"
               }
-            ]
+            ],
+            "margin": "lg"
           }
         ],
         "background": {
