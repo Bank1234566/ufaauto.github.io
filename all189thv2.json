@@ -151,7 +151,14 @@
                   "type": "uri",
                   "label": "แชร์ให้เพื่อน",
                   "uri": "https://lin.ee/WPWnCG0"
-                }
+                },
+                "margin": "md",
+                "height": "sm",
+                "color": "#FF9900",
+                "style": "primary",
+                "gravity": "center",
+                "offsetTop": "none",
+                "offsetStart": "none"
               }
             ]
           }
