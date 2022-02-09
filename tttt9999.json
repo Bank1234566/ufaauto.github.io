@@ -2,33 +2,143 @@
   "type": "flex",
   "altText": "You received a message",
   "contents": {
-  "type": "bubble",
-  "hero": {
-    "type": "image",
-    "url": "https://www.img.in.th/images/048dd9ea4a0a77bead4dcbda32ea081b.png",
-    "size": "full",
-    "animated": true
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/417e66c25a3e90c381a8befb354fa860.png",
-        "size": "full",
-        "aspectRatio": "3:1",
-        "animated": true
+        "url": "https://www.img.in.th/images/05762c3f1992d4acb8693b070f0eb18d.jpg",
+        "margin": "none",
+        "size": "full"
       },
-      {
-        "type": "image",
-        "url": "https://www.img.in.th/images/6e43329c982d588c59c2911c39ff42b8.png",
-        "size": "full",
-        "aspectRatio": "2:1",
-        "animated": true
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรีไม่ต้องฝาก !!",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "align": "center",
+            "text": "รับได้ง่ายๆเพียงสมัครสมาชิกเเล้วเเจ้งยูซเซอร์ก็สามารถรับได้ทันที ไม่ต้องฝากก่อน ",
+            "wrap": true,
+            "size": "sm",
+            "offsetBottom": "none"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              },
+              {
+                "type": "icon",
+                "url": "https://www.img.in.th/images/c28259666264b4a22e9827df2775abe0.png"
+              }
+            ],
+            "offsetStart": "xxl",
+            "spacing": "md",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/4a6b1ebc6688c9fd53fbd54f2e5b8b64.png",
+            "size": "4xl",
+            "aspectRatio": "1:1"
+          }
+        ],
+        "offsetBottom": "xxl"
       }
-    ],
-    "backgroundColor": "#000000"
-  }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/05be68c6508bf97946a76e660b31ab9c.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครวันนี้รับโบนัส 100%",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนผ่านระบบอัตโนมัติ"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/1a23b98b7dfc17cc5a9c20a0aaf76e88.png",
+            "size": "full",
+            "aspectRatio": "3:1"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/c9b7634f957795881da84afc22c847c2.png",
+            "size": "full",
+            "aspectRatio": "3:1"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/790485388384f5e445f634d364d21cc1.png",
+            "size": "full",
+            "aspectRatio": "3:1"
+          }
+        ]
+      }
+    }
+  ]
 }
 }]
