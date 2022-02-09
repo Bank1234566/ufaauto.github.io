@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรีไม่ต้องฝากก่อน!!",
+  "altText": "เเจกเครดิตฟรีไม่ต้องฝากก่อน !!",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -46,7 +46,8 @@
               "type": "uri",
               "label": "action",
               "uri": "https://lin.ee/nGog44E"
-            }
+            },
+            "animated": true
           },
           {
             "type": "image",
@@ -57,7 +58,8 @@
               "type": "uri",
               "label": "action",
               "uri": "https://lin.ee/nGog44E"
-            }
+            },
+            "animated": true
           }
         ],
         "backgroundColor": "#66CDAA"
@@ -88,7 +90,8 @@
               "type": "uri",
               "label": "action",
               "uri": "https://lin.ee/nGog44E"
-            }
+            },
+            "animated": true
           },
           {
             "type": "text",
