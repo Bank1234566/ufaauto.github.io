@@ -1,0 +1,140 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรีไม่ต้องฝากก่อน!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/05762c3f1992d4acb8693b070f0eb18d.jpg",
+        "margin": "none",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/nGog44E"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรีไม่ต้องฝาก !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#E0FFFF"
+          },
+          {
+            "type": "text",
+            "align": "center",
+            "text": "รับได้ง่ายๆเพียงสมัครสมาชิกเเล้วเเจ้งยูซเซอร์ก็สามารถรับได้ทันที ไม่ต้องฝากก่อน ",
+            "wrap": true,
+            "size": "sm",
+            "offsetBottom": "none",
+            "color": "#F5F5DC"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/1a23b98b7dfc17cc5a9c20a0aaf76e88.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nGog44E"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2022/02/09/r0HT3z.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nGog44E"
+            }
+          }
+        ],
+        "backgroundColor": "#66CDAA"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/05be68c6508bf97946a76e660b31ab9c.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://allufabet789.online/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/1e287ff1d78fa4ce7dda73bb902a6126.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nGog44E"
+            }
+          },
+          {
+            "type": "text",
+            "text": "รางวัลใหญ่รอคุณอยู่ !!",
+            "weight": "bold",
+            "align": "center",
+            "color": "#E0FFFF"
+          },
+          {
+            "type": "text",
+            "text": "ฝาก-ถอนผ่านระบบอัตโนมัติ รวดเร็วทันใจ",
+            "align": "center",
+            "color": "#F5F5DC"
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/c9b7634f957795881da84afc22c847c2.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "margin": "md",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://allufabet789.online/"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/790485388384f5e445f634d364d21cc1.png",
+            "size": "full",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/nGog44E"
+            }
+          }
+        ],
+        "backgroundColor": "#66CDAA"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#00FA9A"
+        }
+      }
+    }
+  ]
+}
+}]
