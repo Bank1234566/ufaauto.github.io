@@ -6,7 +6,8 @@
   "hero": {
     "type": "image",
     "url": "https://www.img.in.th/images/048dd9ea4a0a77bead4dcbda32ea081b.png",
-    "size": "full"
+    "size": "full",
+    "animated": true
   },
   "body": {
     "type": "box",
@@ -16,13 +17,15 @@
         "type": "image",
         "url": "https://www.img.in.th/images/417e66c25a3e90c381a8befb354fa860.png",
         "size": "full",
-        "aspectRatio": "3:1"
+        "aspectRatio": "3:1",
+        "animated": true
       },
       {
         "type": "image",
         "url": "https://www.img.in.th/images/6e43329c982d588c59c2911c39ff42b8.png",
         "size": "full",
-        "aspectRatio": "2:1"
+        "aspectRatio": "2:1",
+        "animated": true
       }
     ],
     "backgroundColor": "#000000"
