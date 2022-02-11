@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "🏆แจกง่าย รับง่าย แค่ปลายนิ้ว รับเลยเครดิต 200 เครดิต🎁",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/3a426be3b0898ce14af0e72bf2bf5c27.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/jvt8xkP"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/jvt8xkP"
+        },
+        "gravity": "center",
+        "style": "primary",
+        "margin": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับเครดิตฟรี",
+          "uri": "https://lin.ee/jvt8xkP"
+        },
+        "style": "primary",
+        "margin": "sm",
+        "color": "#FF0000"
+      }
+    ],
+    "position": "relative"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f60193fb32542b243dbc5425b42cfeba.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/jvt8xkP"
+        }
+      }
+    ]
+  }
+}
+}]
