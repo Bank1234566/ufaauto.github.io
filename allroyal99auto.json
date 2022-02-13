@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรีไม่ต้องฝากก่อนรับได้ฟรี ผ่านระบบอัตโนมัติ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/02/13/rNxTtZ.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gqFywv8"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรี 159 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#00FF00"
+          },
+          {
+            "type": "text",
+            "text": "เพียงสมัครสมาชิกใหม่ก็รับได้ทันทีไม่ต้องฝากก่อน เล่นได้ถอนให้จริง ไม่ต้องฝากก่อน",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "color": "#E0FFFF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#660099",
+          "endColor": "#000080",
+          "centerColor": "#000066"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/gqFywv8"
+            },
+            "style": "primary",
+            "color": "#00FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "margin": "sm",
+            "color": "#A020F0"
+          }
+        ],
+        "backgroundColor": "#191970"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/02/13/rNxyhP.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://allufabet789.online/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นไม่ทำเทิร์น",
+            "align": "center",
+            "weight": "bold",
+            "color": "#00FF00",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกผ่านระบบอัตโนมัติ มีครบทุกค่ายเกม ฝากถอนไม่อั้น",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#E0FFFF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#660099",
+          "endColor": "#000080",
+          "centerColor": "#000066"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allufabet789.online/"
+            },
+            "style": "primary",
+            "color": "#00FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "margin": "sm",
+            "color": "#A020F0"
+          }
+        ],
+        "backgroundColor": "#191970"
+      }
+    }
+  ]
+}
+}]
