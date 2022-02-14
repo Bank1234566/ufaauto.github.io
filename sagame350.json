@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรีไม่ต้องฝากก่อนเพียงสมัครับทันที",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/02/14/rBaqRt.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "SA GAME350",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 50 บาท",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกเเจ้ง User รับได้ทันที",
+        "align": "center",
+        "color": "#33FF00"
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/d3D50Xd"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.allcasino518.com/sagame365"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "spacing": "sm"
+  }
+}
+}]
