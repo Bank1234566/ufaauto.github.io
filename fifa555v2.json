@@ -1,0 +1,71 @@
+[{
+  "type": "flex",
+  "altText": "ไม่ต้องฝากก่อน แค่สมัครก็รับเครดิตฟรีได้เลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/02/15/rhMmkS.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/jvt8xkP"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "FIFA555",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FF0033"
+      },
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 200 เครดิต ไม่ต้องฝากก่อน",
+        "size": "sm",
+        "align": "center",
+        "color": "#CCCC00"
+      },
+      {
+        "type": "text",
+        "text": "เล่นได้ทุกค่ายเกม ไม่จำกัดเดิมพัน แค่สมัครเท่านั้น",
+        "size": "sm",
+        "align": "center",
+        "color": "#CCCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับเครดิตฟรี",
+              "uri": "https://lin.ee/jvt8xkP"
+            },
+            "height": "md",
+            "style": "primary",
+            "margin": "xl"
+          }
+        ],
+        "position": "relative"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    }
+  }
+}
+}]
